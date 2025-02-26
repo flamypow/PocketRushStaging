@@ -1654,3 +1654,1465 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.26-09.07.34:283][536]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 370.694641
 [2025.02.26-09.07.35:281][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.02.26-09.07.35:281][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 371.360168, Update Interval: 332.678009
+[2025.02.26-09.08.49:363][600]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content'.
+[2025.02.26-09.08.49:363][600]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.26-09.08.49:411][600]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.26-09.08.49:423][601]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.26-09.08.51:418][723]LogContentBrowser: Attempting asset rename: NewFolder -> Art
+[2025.02.26-09.08.51:419][723]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.26-09.08.51:442][723]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content'.
+[2025.02.26-09.08.53:633][834]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art'.
+[2025.02.26-09.09.05:450][368]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.26-09.09.05:483][368]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.26-09.09.05:503][370]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.26-09.09.08:873][574]LogContentBrowser: Attempting asset rename: NewFolder -> Mesh
+[2025.02.26-09.09.08:873][574]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.26-09.09.08:894][574]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art'.
+[2025.02.26-09.09.14:365][767]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.26-09.09.14:371][767]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.26-09.09.14:380][768]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.26-09.09.17:762][973]LogContentBrowser: Attempting asset rename: NewFolder -> Material
+[2025.02.26-09.09.17:762][973]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.26-09.09.17:783][973]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art'.
+[2025.02.26-09.09.21:311][186]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.26-09.09.21:316][186]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.26-09.09.21:334][187]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.26-09.09.33:844][938]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2025.02.26-09.09.33:844][938]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.26-09.09.33:865][938]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art'.
+[2025.02.26-09.09.34:444][974]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints'.
+[2025.02.26-09.09.54:027][131]LogChaosDD: Creating Chaos Debug Draw Scene for world World_0
+[2025.02.26-09.09.54:132][133]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
+[2025.02.26-09.09.54:828][176]Cmd: DELETE
+[2025.02.26-09.09.54:828][176]Cmd: ACTOR DELETE
+[2025.02.26-09.09.54:848][176]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.09.54:905][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.02.26-09.09.54:906][176]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2025.02.26-09.09.56:633][276]Cmd: DELETE
+[2025.02.26-09.09.56:634][276]Cmd: ACTOR DELETE
+[2025.02.26-09.09.56:636][276]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.09.56:652][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.26-09.09.56:655][276]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.02.26-09.09.57:560][328]Cmd: DELETE
+[2025.02.26-09.09.57:560][328]Cmd: ACTOR DELETE
+[2025.02.26-09.09.57:563][328]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.09.57:578][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.26-09.09.57:581][328]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.02.26-09.09.58:297][367]Cmd: DELETE
+[2025.02.26-09.09.58:297][367]Cmd: ACTOR DELETE
+[2025.02.26-09.09.58:300][367]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.09.58:316][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.26-09.09.58:319][367]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.02.26-09.09.59:438][431]Cmd: DELETE
+[2025.02.26-09.09.59:438][431]Cmd: ACTOR DELETE
+[2025.02.26-09.09.59:440][431]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.09.59:456][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.02.26-09.09.59:459][431]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.02.26-09.10.00:096][466]Cmd: DELETE
+[2025.02.26-09.10.00:096][466]Cmd: ACTOR DELETE
+[2025.02.26-09.10.00:098][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.00:114][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.26-09.10.00:118][466]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.02.26-09.10.00:990][514]Cmd: DELETE
+[2025.02.26-09.10.00:990][514]Cmd: ACTOR DELETE
+[2025.02.26-09.10.00:992][514]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.01:008][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.26-09.10.01:012][514]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.02.26-09.10.01:576][545]Cmd: DELETE
+[2025.02.26-09.10.01:576][545]Cmd: ACTOR DELETE
+[2025.02.26-09.10.01:579][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.01:595][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.26-09.10.01:598][545]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.02.26-09.10.02:443][592]Cmd: DELETE
+[2025.02.26-09.10.02:443][592]Cmd: ACTOR DELETE
+[2025.02.26-09.10.02:445][592]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.02:460][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.02.26-09.10.02:463][592]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.02.26-09.10.03:247][636]Cmd: DELETE
+[2025.02.26-09.10.03:247][636]Cmd: ACTOR DELETE
+[2025.02.26-09.10.03:249][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.03:267][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.02.26-09.10.03:270][636]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.02.26-09.10.04:252][692]Cmd: DELETE
+[2025.02.26-09.10.04:252][692]Cmd: ACTOR DELETE
+[2025.02.26-09.10.04:254][692]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.04:271][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.02.26-09.10.04:275][692]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.02.26-09.10.05:085][739]Cmd: DELETE
+[2025.02.26-09.10.05:085][739]Cmd: ACTOR DELETE
+[2025.02.26-09.10.05:088][739]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.05:104][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.02.26-09.10.05:107][739]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.02.26-09.10.06:101][795]Cmd: DELETE
+[2025.02.26-09.10.06:101][795]Cmd: ACTOR DELETE
+[2025.02.26-09.10.06:103][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.06:121][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.02.26-09.10.06:123][795]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.02.26-09.10.14:328][274]Cmd: DELETE
+[2025.02.26-09.10.14:328][274]Cmd: ACTOR DELETE
+[2025.02.26-09.10.14:330][274]LogEditorActor: Deleted Actor: TextRenderActor
+[2025.02.26-09.10.14:347][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.02.26-09.10.14:350][274]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.02.26-09.10.15:104][316]Cmd: DELETE
+[2025.02.26-09.10.15:104][316]Cmd: ACTOR DELETE
+[2025.02.26-09.10.15:106][316]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.15:123][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.02.26-09.10.15:127][316]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.02.26-09.10.15:911][360]Cmd: DELETE
+[2025.02.26-09.10.15:911][360]Cmd: ACTOR DELETE
+[2025.02.26-09.10.15:913][360]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.15:930][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.02.26-09.10.15:933][360]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.02.26-09.10.21:889][714]Cmd: DELETE
+[2025.02.26-09.10.21:889][714]Cmd: ACTOR DELETE
+[2025.02.26-09.10.21:891][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.21:910][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.26-09.10.21:914][714]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.02.26-09.10.22:678][758]Cmd: DELETE
+[2025.02.26-09.10.22:678][758]Cmd: ACTOR DELETE
+[2025.02.26-09.10.22:680][758]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.22:696][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.26-09.10.22:699][758]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.02.26-09.10.23:441][800]Cmd: DELETE
+[2025.02.26-09.10.23:441][800]Cmd: ACTOR DELETE
+[2025.02.26-09.10.23:443][800]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.23:461][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.26-09.10.23:463][800]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.02.26-09.10.24:087][834]Cmd: DELETE
+[2025.02.26-09.10.24:087][834]Cmd: ACTOR DELETE
+[2025.02.26-09.10.24:089][834]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.24:106][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.02.26-09.10.24:108][834]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.02.26-09.10.25:451][912]Cmd: DELETE
+[2025.02.26-09.10.25:451][912]Cmd: ACTOR DELETE
+[2025.02.26-09.10.25:453][912]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.25:470][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.02.26-09.10.25:475][912]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.02.26-09.10.26:192][951]Cmd: DELETE
+[2025.02.26-09.10.26:192][951]Cmd: ACTOR DELETE
+[2025.02.26-09.10.26:194][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.26:211][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.02.26-09.10.26:214][951]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.02.26-09.10.27:325][ 15]Cmd: DELETE
+[2025.02.26-09.10.27:325][ 15]Cmd: ACTOR DELETE
+[2025.02.26-09.10.27:327][ 15]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.27:344][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.26-09.10.27:347][ 15]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.02.26-09.10.28:124][ 59]Cmd: DELETE
+[2025.02.26-09.10.28:124][ 59]Cmd: ACTOR DELETE
+[2025.02.26-09.10.28:126][ 59]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.28:143][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.26-09.10.28:147][ 59]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.02.26-09.10.29:793][150]Cmd: DELETE
+[2025.02.26-09.10.29:793][150]Cmd: ACTOR DELETE
+[2025.02.26-09.10.29:796][150]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.26-09.10.29:813][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.02.26-09.10.29:817][150]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.02.26-09.10.35:241][474]Cmd: TRANSACTION UNDO
+[2025.02.26-09.10.35:241][474]LogEditorTransaction: Undo Delete Elements
+[2025.02.26-09.10.35:519][475]Cmd: TRANSACTION UNDO
+[2025.02.26-09.10.35:519][475]LogEditorTransaction: Undo Clicking on Elements
+[2025.02.26-09.10.35:732][476]Cmd: TRANSACTION UNDO
+[2025.02.26-09.10.35:732][476]LogEditorTransaction: Undo Clicking on Elements
+[2025.02.26-09.10.36:034][483]Cmd: TRANSACTION UNDO
+[2025.02.26-09.10.36:034][483]LogEditorTransaction: Undo Delete Elements
+[2025.02.26-09.10.36:276][485]Cmd: TRANSACTION UNDO
+[2025.02.26-09.10.36:276][485]LogEditorTransaction: Undo Clicking on Elements
+[2025.02.26-09.10.36:486][492]Cmd: TRANSACTION UNDO
+[2025.02.26-09.10.36:486][492]LogEditorTransaction: Undo Delete Elements
+[2025.02.26-09.10.36:733][494]Cmd: TRANSACTION UNDO
+[2025.02.26-09.10.36:733][494]LogEditorTransaction: Undo Clicking on Elements
+[2025.02.26-09.10.36:938][501]Cmd: TRANSACTION UNDO
+[2025.02.26-09.10.36:940][501]LogEditorTransaction: Undo Delete Elements
+[2025.02.26-09.10.37:139][502]Cmd: TRANSACTION UNDO
+[2025.02.26-09.10.37:139][502]LogEditorTransaction: Undo Clicking on Elements
+[2025.02.26-09.10.37:314][508]Cmd: TRANSACTION UNDO
+[2025.02.26-09.10.37:314][508]LogEditorTransaction: Undo Delete Elements
+[2025.02.26-09.10.37:507][509]Cmd: TRANSACTION UNDO
+[2025.02.26-09.10.37:507][509]LogEditorTransaction: Undo Clicking on Elements
+[2025.02.26-09.10.37:747][517]Cmd: TRANSACTION UNDO
+[2025.02.26-09.10.37:747][517]LogEditorTransaction: Undo Delete Elements
+[2025.02.26-09.10.37:986][521]Cmd: TRANSACTION UNDO
+[2025.02.26-09.10.37:986][521]LogEditorTransaction: Undo Clicking on Elements
+[2025.02.26-09.10.38:353][532]Cmd: TRANSACTION UNDO
+[2025.02.26-09.10.38:353][532]LogEditorTransaction: Undo Delete Elements
+[2025.02.26-09.10.56:569][804]Cmd: TRANSACTION UNDO
+[2025.02.26-09.10.56:569][804]LogEditorTransaction: Undo Clicking on Elements
+[2025.02.26-09.10.56:895][807]Cmd: TRANSACTION UNDO
+[2025.02.26-09.10.56:895][807]LogEditorTransaction: Undo Delete Elements
+[2025.02.26-09.10.57:124][808]Cmd: TRANSACTION UNDO
+[2025.02.26-09.10.57:124][808]LogEditorTransaction: Undo Clicking on Elements
+[2025.02.26-09.10.57:276][809]Cmd: TRANSACTION UNDO
+[2025.02.26-09.10.57:276][809]LogEditorTransaction: Undo Delete Elements
+[2025.02.26-09.10.59:366][869]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art'.
+[2025.02.26-09.11.01:032][945]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.26-09.11.01:040][945]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.26-09.11.01:056][946]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.26-09.11.04:115][130]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2025.02.26-09.11.04:115][130]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.26-09.11.04:138][130]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art'.
+[2025.02.26-09.11.04:304][141]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps'.
+[2025.02.26-09.11.08:872][296]LogStreaming: Display: FlushAsyncLoading(411): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.26-09.11.11:307][296]LogSlate: Window 'New Level' being destroyed
+[2025.02.26-09.11.13:330][296]LogSlate: Window 'Save Content' being destroyed
+[2025.02.26-09.11.13:351][296]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.02.26-09.11.13:375][296]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/FirstPerson/Maps/FirstPersonMap.umap, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/FirstPerson/Maps/FirstPersonMap.umap'.
+[2025.02.26-09.11.13:376][296]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.26-09.11.13:376][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.26-09.11.13:377][296]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2025.02.26-09.11.13:400][296]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.26-09.11.13:407][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.02.26-09.11.13:429][296]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2025.02.26-09.11.13:429][296]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2025.02.26-09.11.13:535][296]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.02.26-09.11.13:552][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.02.26-09.11.13:553][296]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.02.26-09.11.13:554][296]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.317ms to complete.
+[2025.02.26-09.11.36:262][122]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content'.
+[2025.02.26-09.11.37:591][122]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art'.
+[2025.02.26-09.11.39:310][122]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps'.
+[2025.02.26-09.11.44:513][122]LogSlate: Window 'Save Level As' being destroyed
+[2025.02.26-09.11.44:686][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.02.26-09.11.44:707][122]LogSavePackage: Moving output files for package: /Game/Art/Maps/NandiniMap
+[2025.02.26-09.11.44:707][122]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/NandiniMapFFA662AC43DA4AC84E292095CB3A371C.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap'
+[2025.02.26-09.11.44:722][122]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap'.
+[2025.02.26-09.11.44:747][122]LogFileHelpers: Saving map 'NandiniMap' took 0.208
+[2025.02.26-09.11.44:748][122]Cmd: MAP LOAD FILE="../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.02.26-09.11.44:767][122]LogWorld: UWorld::CleanupWorld for NandiniMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.26-09.11.44:767][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.26-09.11.44:781][122]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.26-09.11.44:783][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.02.26-09.11.44:784][122]LogStreaming: Display: FlushAsyncLoading(414): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.26-09.11.44:787][122]LogAudio: Display: Audio Device (ID: 1) registered with world 'NandiniMap'.
+[2025.02.26-09.11.44:787][122]LogChaosDD: Creating Chaos Debug Draw Scene for world NandiniMap
+[2025.02.26-09.11.44:879][122]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.02.26-09.11.44:894][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.26-09.11.44:902][122]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.02.26-09.11.44:902][122]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2025.02.26-09.11.44:986][122]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.26-09.11.44:987][122]LogContentValidation: Enabled validators:
+[2025.02.26-09.11.44:987][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.26-09.11.44:987][122]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.26-09.11.44:987][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.26-09.11.44:987][122]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.26-09.11.44:987][122]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.26-09.11.44:987][122]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.26-09.11.44:987][122]AssetCheck: /Game/Art/Maps/NandiniMap Validating asset
+[2025.02.26-09.12.45:628][732]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art'.
+[2025.02.26-09.12.46:876][783]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints'.
+[2025.02.26-09.13.11:508][258]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 707.917908
+[2025.02.26-09.13.11:625][265]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-09.13.11:625][265]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 708.017700, Update Interval: 307.668701
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: ================================================
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: Total job queries 1,316, among them cache hits 204 (15.50%), DDC hits 1,091 (82.90%), Duplicates 10 (0.76%)
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: Tracking 1,102 distinct input hashes that result in 863 distinct outputs (78.31%)
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: RAM used: 562.55 KiB of 3.20 GiB budget. Usage: 0.02%
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: Shaders Compiled: 11
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: Average time worker was idle: 568.74 s
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.08 s
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: Job execution time: average 5.62 s, max 7.03 s
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: Job life time (pending + execution): average 5.69 s, max 7.09
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: Shader code size: average 7.337 KiB, min 2.379 KiB, max 13.609 KiB
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.49 s
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: Average processing rate: 1.05 jobs/sec
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: Total thread time: 7.84 s
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: Total thread preprocess time: 18.357 s
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: Percentage time preprocessing: 234.13%
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: Effective parallelization: 0.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.45 sec, max 1.45 sec, min 1.45 sec)
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.79 sec, max 0.91 sec, min 0.67 sec)
+[2025.02.26-09.13.38:957][906]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2025.02.26-09.13.38:958][906]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.02.26-09.13.38:958][906]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.02.26-09.13.38:958][906]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.26-09.13.38:958][906]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.09% of total time (compiled    2 times, average 0.79 sec, max 0.91 sec, min 0.67 sec)
+[2025.02.26-09.13.38:958][906]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.50% of total time (compiled    1 times, average 1.45 sec, max 1.45 sec, min 1.45 sec)
+[2025.02.26-09.13.38:958][906]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.23% of total time (compiled    2 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2025.02.26-09.13.38:958][906]LogShaderCompilers: Display:                                                  FVelocityPS - 6.73% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2025.02.26-09.13.38:958][906]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 6.55% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.02.26-09.13.38:958][906]LogShaderCompilers: Display: === Material stats ===
+[2025.02.26-09.13.38:958][906]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.02.26-09.13.38:958][906]LogShaderCompilers: Display: Materials Translated:    137
+[2025.02.26-09.13.38:958][906]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2025.02.26-09.13.38:958][906]LogShaderCompilers: Display: Material Translation Only: 0.09 s (55%)
+[2025.02.26-09.13.38:958][906]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.02.26-09.13.38:958][906]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.02.26-09.13.38:958][906]LogShaderCompilers: Display: ================================================
+[2025.02.26-09.14.45:107][ 92]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.26-09.14.45:131][ 92]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.26-09.14.45:137][ 92]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.26-09.14.45:161][ 94]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.26-09.15.13:263][782]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_MeshStretch
+[2025.02.26-09.15.13:275][782]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.26-09.15.13:275][782]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints'.
+[2025.02.26-09.15.13:866][818]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Art/Blueprints/BP_MeshStretch.BP_MeshStretch
+[2025.02.26-09.15.13:869][818]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2025.02.26-09.15.14:253][818]LogStreaming: Display: FlushAsyncLoading(415): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.26-09.15.15:465][818]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.02.26-09.15.15:467][818]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.02.26-09.15.17:914][868]LogSlate: Took 0.000684 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.02.26-09.15.37:680][309]LogSlate: Took 0.009492 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.02.26-09.18.24:659][461]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1021.069153
+[2025.02.26-09.18.24:806][465]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-09.18.24:806][465]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1021.182129, Update Interval: 350.710785
+[2025.02.26-09.21.16:763][242]LogEditorTransaction: Undo Split Struct Pin
+[2025.02.26-09.24.27:576][474]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1383.983887
+[2025.02.26-09.24.27:743][479]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-09.24.27:743][479]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1384.117188, Update Interval: 323.831909
+[2025.02.26-09.26.58:840][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.02.26-09.26.58:844][297]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Art/Maps/NandiniMap' took 0.060
+[2025.02.26-09.26.58:846][297]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Blueprints/BP_MeshStretch] ([2] browsable assets)...
+[2025.02.26-09.26.58:846][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Blueprints/BP_MeshStretch]
+[2025.02.26-09.26.58:856][297]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Blueprints/BP_MeshStretch_Auto1
+[2025.02.26-09.26.58:856][297]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/BP_MeshStretch_Auto1A550E8FF458714A5CF9460AA3A67BE0D.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/Autosaves/Game/Art/Blueprints/BP_MeshStretch_Auto1.uasset'
+[2025.02.26-09.26.58:856][297]LogFileHelpers: Auto-saving content packages took 0.012
+[2025.02.26-09.27.02:288][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.26-09.27.02:449][359]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Blueprints/BP_MeshStretch] ([2] browsable assets)...
+[2025.02.26-09.27.02:450][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Blueprints/BP_MeshStretch]
+[2025.02.26-09.27.02:457][359]LogSavePackage: Moving output files for package: /Game/Art/Blueprints/BP_MeshStretch
+[2025.02.26-09.27.02:457][359]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/BP_MeshStretch5570A28545D4DA469B470FA33A92BA82.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset'
+[2025.02.26-09.27.02:504][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 215.247 ms
+[2025.02.26-09.27.02:616][359]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.26-09.27.02:617][359]LogContentValidation: Enabled validators:
+[2025.02.26-09.27.02:617][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.26-09.27.02:617][359]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.26-09.27.02:617][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.26-09.27.02:617][359]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.26-09.27.02:617][359]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.26-09.27.02:617][359]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.26-09.27.02:617][359]AssetCheck: /Game/Art/Blueprints/BP_MeshStretch Validating asset
+[2025.02.26-09.30.16:284][865]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1732.695801
+[2025.02.26-09.30.16:450][870]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-09.30.16:450][870]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1732.829102, Update Interval: 308.424927
+[2025.02.26-09.36.02:459][316]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2078.875000
+[2025.02.26-09.36.02:659][320]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-09.36.02:659][320]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2079.024902, Update Interval: 359.760132
+[2025.02.26-09.36.59:315][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.02.26-09.36.59:318][840]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Art/Maps/NandiniMap' took 0.033
+[2025.02.26-09.36.59:319][840]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Blueprints/BP_MeshStretch] ([2] browsable assets)...
+[2025.02.26-09.36.59:319][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Blueprints/BP_MeshStretch]
+[2025.02.26-09.36.59:328][840]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Blueprints/BP_MeshStretch_Auto2
+[2025.02.26-09.36.59:328][840]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/BP_MeshStretch_Auto2E2B6A8EA47E359B682FD6AB3BE6FC2C1.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/Autosaves/Game/Art/Blueprints/BP_MeshStretch_Auto2.uasset'
+[2025.02.26-09.36.59:329][840]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.02.26-09.42.46:306][296]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2482.757080
+[2025.02.26-09.42.46:505][300]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-09.42.46:505][300]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2482.907471, Update Interval: 354.999237
+[2025.02.26-09.49.13:182][988]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2869.690430
+[2025.02.26-09.49.13:370][992]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-09.49.13:370][992]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2869.811279, Update Interval: 341.507629
+[2025.02.26-09.50.50:248][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.02.26-09.50.50:252][925]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Art/Maps/NandiniMap' took 0.034
+[2025.02.26-09.50.50:252][925]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Blueprints/BP_MeshStretch] ([2] browsable assets)...
+[2025.02.26-09.50.50:252][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Blueprints/BP_MeshStretch]
+[2025.02.26-09.50.50:263][925]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Blueprints/BP_MeshStretch_Auto3
+[2025.02.26-09.50.50:263][925]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/BP_MeshStretch_Auto3DDCB3FAF4E396E0D868F63BDAD10B1E8.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/Autosaves/Game/Art/Blueprints/BP_MeshStretch_Auto3.uasset'
+[2025.02.26-09.50.50:264][925]LogFileHelpers: Auto-saving content packages took 0.012
+[2025.02.26-09.55.44:363][862]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3260.902588
+[2025.02.26-09.55.44:564][866]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-09.55.44:564][866]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3261.052979, Update Interval: 336.369507
+[2025.02.26-10.00.50:713][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.02.26-10.00.50:717][599]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Art/Maps/NandiniMap' took 0.033
+[2025.02.26-10.00.50:717][599]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Blueprints/BP_MeshStretch] ([2] browsable assets)...
+[2025.02.26-10.00.50:717][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Blueprints/BP_MeshStretch]
+[2025.02.26-10.00.50:728][599]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Blueprints/BP_MeshStretch_Auto4
+[2025.02.26-10.00.50:728][599]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/BP_MeshStretch_Auto41F688CA3496DCA255711589C135CCEB6.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/Autosaves/Game/Art/Blueprints/BP_MeshStretch_Auto4.uasset'
+[2025.02.26-10.00.50:729][599]LogFileHelpers: Auto-saving content packages took 0.012
+[2025.02.26-10.02.14:442][644]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3651.004395
+[2025.02.26-10.02.14:826][651]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-10.02.14:826][651]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3651.337646, Update Interval: 305.714905
+[2025.02.26-10.02.41:697][196]LogDerivedDataCache: C:/Users/n.parmar158/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.26-10.07.25:534][524]LogBlueprint: Error: [AssetLog] C:\Users\n.parmar158\Documents\NeonWhite\Source\PocketRushStaging\PocketRushStaging\Content\Art\Blueprints\BP_MeshStretch.uasset: [Compiler] This blueprint (self) is not a SplineMeshComponent, therefore ' Target ' must have a connection.
+[2025.02.26-10.07.25:539][524]LogStreaming: Display: FlushAsyncLoading(605): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.26-10.07.25:605][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.02.26-10.07.29:669][629]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.07.29:669][629]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.07.29:671][629]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.07.29:671][629]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.07.29:726][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.02.26-10.07.29:731][629]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.07.29:731][629]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.07.29:731][629]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.07.29:731][629]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.07.29:757][629]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.07.29:757][629]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.07.29:757][629]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.07.29:757][629]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.07.58:665][495]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3995.278809
+[2025.02.26-10.07.58:831][499]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-10.07.58:831][499]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3995.395264, Update Interval: 310.962860
+[2025.02.26-10.11.33:117][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.02.26-10.11.33:123][ 55]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Art/Maps/NandiniMap' took 0.037
+[2025.02.26-10.11.33:124][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Blueprints/BP_MeshStretch] ([2] browsable assets)...
+[2025.02.26-10.11.33:124][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Blueprints/BP_MeshStretch]
+[2025.02.26-10.11.33:137][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Blueprints/BP_MeshStretch_Auto5
+[2025.02.26-10.11.33:137][ 55]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/BP_MeshStretch_Auto5F03C4F2E4C99C0F7D7C9FD8B8B0DF268.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/Autosaves/Game/Art/Blueprints/BP_MeshStretch_Auto5.uasset'
+[2025.02.26-10.11.33:140][ 55]LogFileHelpers: Auto-saving content packages took 0.016
+[2025.02.26-10.14.02:151][573]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4358.435059
+[2025.02.26-10.14.02:318][578]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-10.14.02:318][578]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4358.567871, Update Interval: 316.097290
+[2025.02.26-10.16.10:759][923]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.16.10:759][923]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.16.10:759][923]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.16.10:759][923]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.16.10:800][923]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.16.10:800][923]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.16.10:800][923]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.16.10:800][923]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.16.10:805][923]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.16.10:805][923]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.16.10:805][923]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.16.10:805][923]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.16.10:811][923]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.16.10:811][923]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.16.10:811][923]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.16.10:811][923]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.16.10:814][923]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.16.10:814][923]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.16.10:814][923]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.16.10:814][923]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.16.23:020][250]LogEditorTransaction: Undo Move Node
+[2025.02.26-10.16.23:023][250]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.16.23:023][250]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.16.23:023][250]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.16.23:023][250]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.16.24:024][264]LogEditorTransaction: Undo Move Node
+[2025.02.26-10.16.24:027][264]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.16.24:028][264]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.16.24:028][264]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.16.24:028][264]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.16.24:722][278]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2025.02.26-10.16.24:725][278]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.16.24:725][278]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.16.24:725][278]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.16.24:725][278]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.16.24:729][278]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.16.24:729][278]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.16.24:729][278]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.16.24:729][278]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.42:544][694]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.42:544][694]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.42:544][694]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.42:544][694]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.42:602][694]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.42:602][694]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.42:602][694]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.42:603][694]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.42:608][694]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.42:608][694]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.42:608][694]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.42:608][694]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.42:614][694]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.42:614][694]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.42:614][694]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.42:614][694]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.42:617][694]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.42:617][694]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.42:617][694]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.42:617][694]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.53:687][909]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2025.02.26-10.18.53:690][909]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.53:690][909]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.53:691][909]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.53:691][909]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.53:694][909]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.53:694][909]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.53:695][909]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.53:695][909]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.54:654][920]LogEditorTransaction: Undo Create Pin Link
+[2025.02.26-10.18.54:657][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.54:657][920]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.54:657][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.54:657][920]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.55:893][939]LogEditorTransaction: Undo Create Pin Link
+[2025.02.26-10.18.55:896][939]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.55:896][939]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.55:896][939]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.55:896][939]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.57:534][970]LogEditorTransaction: Undo Move Nodes
+[2025.02.26-10.18.57:537][970]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.57:537][970]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.18.57:537][970]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.18.57:537][970]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.19.31:209][788]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.19.31:209][788]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.19.31:209][788]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.19.31:209][788]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.19.31:269][788]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.19.31:269][788]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.19.31:269][788]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.19.31:269][788]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.19.31:274][788]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.19.31:274][788]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.19.31:274][788]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.19.31:274][788]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.19.31:279][788]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.19.31:279][788]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.19.31:279][788]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.19.31:279][788]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.19.31:283][788]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.19.31:283][788]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.19.31:284][788]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.19.31:284][788]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.19.40:517][ 37]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.19.40:517][ 37]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.19.40:517][ 37]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.19.40:517][ 37]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.20.16:607][904]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4732.261230
+[2025.02.26-10.20.16:768][908]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-10.20.16:768][908]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4732.406250, Update Interval: 353.034454
+[2025.02.26-10.20.22:144][ 62]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.20.22:144][ 62]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.20.22:144][ 62]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.20.22:145][ 62]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.20.22:194][ 62]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.20.22:194][ 62]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.20.22:194][ 62]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.20.22:194][ 62]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.20.25:927][154]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.20.25:927][154]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.20.25:927][154]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.20.25:927][154]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.20.25:970][154]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.20.25:970][154]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.20.25:970][154]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.20.25:970][154]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.20.51:476][857]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.20.51:476][857]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.20.51:476][857]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.20.51:476][857]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.20.55:731][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.26-10.20.55:919][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Blueprints/BP_MeshStretch] ([2] browsable assets)...
+[2025.02.26-10.20.55:919][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Blueprints/BP_MeshStretch]
+[2025.02.26-10.20.55:933][981]LogSavePackage: Moving output files for package: /Game/Art/Blueprints/BP_MeshStretch
+[2025.02.26-10.20.55:934][981]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/BP_MeshStretch70D47FB14111EA0CFE3531B7DD8A7C54.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset'
+[2025.02.26-10.20.55:972][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 240.959 ms (total: 456.207 ms)
+[2025.02.26-10.20.55:973][981]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset'.
+[2025.02.26-10.20.56:050][981]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.26-10.20.56:050][981]LogContentValidation: Enabled validators:
+[2025.02.26-10.20.56:050][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.26-10.20.56:050][981]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.26-10.20.56:050][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.26-10.20.56:050][981]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.26-10.20.56:050][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.26-10.20.56:050][981]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.26-10.20.56:050][981]AssetCheck: /Game/Art/Blueprints/BP_MeshStretch Validating asset
+[2025.02.26-10.22.08:998][882]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.08:998][882]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.08:998][882]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.08:998][882]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.19:446][176]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.19:446][176]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.19:446][176]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.19:446][176]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.19:477][176]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.19:477][176]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.19:477][176]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.19:477][176]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.24:841][323]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.24:841][323]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.24:841][323]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.24:842][323]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.24:864][323]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.24:864][323]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.24:864][323]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.24:864][323]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.29:135][410]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.29:135][410]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.29:135][410]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.29:135][410]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.29:164][410]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.29:164][410]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.29:164][410]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.29:164][410]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.39:619][687]LogEditorTransaction: Undo Change Parameter Type
+[2025.02.26-10.22.39:621][687]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.39:621][687]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.39:621][687]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.39:622][687]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.39:626][687]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.39:626][687]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.39:626][687]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.39:626][687]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.45:696][816]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.45:696][816]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.45:696][816]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.45:696][816]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.45:719][816]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.45:719][816]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.22.45:719][816]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.22.45:719][816]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.10:090][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.26-10.23.10:284][422]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Blueprints/BP_MeshStretch] ([2] browsable assets)...
+[2025.02.26-10.23.10:284][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Blueprints/BP_MeshStretch]
+[2025.02.26-10.23.10:300][422]LogSavePackage: Moving output files for package: /Game/Art/Blueprints/BP_MeshStretch
+[2025.02.26-10.23.10:301][422]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/BP_MeshStretch93991A1D495FEFD20E67A7B935E5279F.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset'
+[2025.02.26-10.23.10:338][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 247.749 ms (total: 703.956 ms)
+[2025.02.26-10.23.10:339][422]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset'.
+[2025.02.26-10.23.10:450][422]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.26-10.23.10:450][422]LogContentValidation: Enabled validators:
+[2025.02.26-10.23.10:450][422]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.26-10.23.10:450][422]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.26-10.23.10:450][422]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.26-10.23.10:450][422]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.26-10.23.10:450][422]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.26-10.23.10:450][422]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.26-10.23.10:450][422]AssetCheck: /Game/Art/Blueprints/BP_MeshStretch Validating asset
+[2025.02.26-10.23.31:556][ 27]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.31:556][ 27]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.31:556][ 27]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.31:556][ 27]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.39:913][260]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.39:913][260]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.39:913][260]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.39:913][260]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.39:972][260]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.39:972][260]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.39:972][260]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.39:973][260]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.48:005][493]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.48:005][493]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.48:005][493]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.48:005][493]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.48:027][493]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.48:028][493]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.48:028][493]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.48:028][493]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.49:825][543]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.49:825][543]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.49:825][543]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.49:825][543]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.49:850][543]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.49:850][543]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.49:850][543]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.49:850][543]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.51:501][592]LogEditorTransaction: Undo Remove Parameter
+[2025.02.26-10.23.51:504][592]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.51:504][592]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.51:504][592]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.51:504][592]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.51:508][592]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.51:508][592]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.51:508][592]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.51:508][592]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.54:437][641]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.54:437][641]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.54:437][641]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.54:437][641]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.54:472][641]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.54:472][641]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.23.54:472][641]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.23.54:472][641]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.00:826][809]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.00:826][809]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.00:826][809]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.00:826][809]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.00:850][809]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.00:850][809]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.00:850][809]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.00:850][809]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.10:001][ 31]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.10:001][ 31]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.10:004][ 31]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.10:004][ 31]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.10:070][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.02.26-10.24.10:078][ 31]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.10:078][ 31]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.10:078][ 31]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.10:078][ 31]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.10:101][ 31]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.10:101][ 31]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.10:101][ 31]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.10:101][ 31]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.46:209][883]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.46:209][883]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.46:209][883]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.46:209][883]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.46:262][883]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.46:262][883]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.46:262][883]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.46:262][883]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.46:267][883]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.46:267][883]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.46:267][883]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.46:267][883]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.46:273][883]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.46:273][883]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.46:273][883]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.46:273][883]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.46:278][883]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.46:278][883]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.24.46:278][883]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.24.46:278][883]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.25.17:471][626]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.25.17:471][626]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.25.17:471][626]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.25.17:471][626]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.25.17:522][626]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.25.17:522][626]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.25.17:522][626]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.25.17:522][626]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.25.22:842][741]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.25.22:843][741]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.25.22:843][741]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.25.22:843][741]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.25.22:857][741]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.25.22:857][741]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.25.22:857][741]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.25.22:857][741]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.25.26:847][812]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.25.26:847][812]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.25.26:847][812]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.25.26:847][812]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.25.26:865][812]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.25.26:865][812]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.25.26:865][812]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.25.26:865][812]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.26.46:083][648]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.26.46:083][648]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.26.46:083][648]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.26.46:083][648]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.26.57:540][921]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5132.529297
+[2025.02.26-10.26.57:670][924]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-10.26.57:670][924]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5132.642578, Update Interval: 328.473755
+[2025.02.26-10.26.58:002][932]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.26.58:002][932]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.26.58:002][932]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.26.58:002][932]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.26.58:033][932]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.26.58:033][932]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.26.58:033][932]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.26.58:033][932]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.02:553][ 56]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.02:553][ 56]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.02:553][ 56]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.02:554][ 56]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.02:578][ 56]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.02:578][ 56]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.02:578][ 56]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.02:578][ 56]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.06:336][133]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.06:336][133]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.06:336][133]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.06:336][133]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.06:367][133]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.06:367][133]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.06:367][133]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.06:367][133]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.07:581][166]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.07:581][166]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.07:581][166]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.07:581][166]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.07:619][166]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.07:619][166]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.07:619][166]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.07:619][166]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.13:444][332]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.13:444][332]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.13:444][332]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.13:444][332]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.13:471][332]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.13:471][332]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.13:472][332]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.13:472][332]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.41:451][ 59]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.41:452][ 59]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.41:452][ 59]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.41:452][ 59]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.41:513][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.02.26-10.27.41:522][ 59]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.41:522][ 59]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.41:522][ 59]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.41:522][ 59]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.41:542][ 59]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.41:542][ 59]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.41:543][ 59]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.41:543][ 59]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.43:603][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.26-10.27.43:852][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Blueprints/BP_MeshStretch] ([2] browsable assets)...
+[2025.02.26-10.27.43:852][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Blueprints/BP_MeshStretch]
+[2025.02.26-10.27.43:871][ 98]LogSavePackage: Moving output files for package: /Game/Art/Blueprints/BP_MeshStretch
+[2025.02.26-10.27.43:871][ 98]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/BP_MeshStretch18803A2A4AF5F3CE3EB7D79927B8BDA6.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset'
+[2025.02.26-10.27.43:956][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 352.874 ms (total: 1.05 sec)
+[2025.02.26-10.27.43:957][ 98]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset'.
+[2025.02.26-10.27.44:117][ 98]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.26-10.27.44:117][ 98]LogContentValidation: Enabled validators:
+[2025.02.26-10.27.44:117][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.26-10.27.44:117][ 98]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.26-10.27.44:117][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.26-10.27.44:117][ 98]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.26-10.27.44:117][ 98]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.26-10.27.44:117][ 98]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.26-10.27.44:117][ 98]AssetCheck: /Game/Art/Blueprints/BP_MeshStretch Validating asset
+[2025.02.26-10.27.59:795][469]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.59:795][469]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.27.59:795][469]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.27.59:795][469]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.28.02:398][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.26-10.28.02:585][540]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Blueprints/BP_MeshStretch] ([2] browsable assets)...
+[2025.02.26-10.28.02:586][540]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Blueprints/BP_MeshStretch]
+[2025.02.26-10.28.02:604][540]LogSavePackage: Moving output files for package: /Game/Art/Blueprints/BP_MeshStretch
+[2025.02.26-10.28.02:605][540]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/BP_MeshStretch7EE747DD4F2D3A4EA0B8D0B744737CF3.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset'
+[2025.02.26-10.28.02:639][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 240.793 ms (total: 1.29 sec)
+[2025.02.26-10.28.02:640][540]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset'.
+[2025.02.26-10.28.02:750][540]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.26-10.28.02:750][540]LogContentValidation: Enabled validators:
+[2025.02.26-10.28.02:750][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.26-10.28.02:750][540]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.26-10.28.02:750][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.26-10.28.02:750][540]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.26-10.28.02:750][540]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.26-10.28.02:750][540]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.26-10.28.02:750][540]AssetCheck: /Game/Art/Blueprints/BP_MeshStretch Validating asset
+[2025.02.26-10.30.37:100][544]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.30.37:100][544]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.30.37:100][544]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.30.37:100][544]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.30.45:682][723]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.30.45:682][723]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.30.45:682][723]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.30.45:682][723]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.30.51:446][854]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.30.51:446][854]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.30.51:446][854]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.30.51:446][854]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.32.34:638][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.26-10.32.34:818][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Blueprints/BP_MeshStretch] ([2] browsable assets)...
+[2025.02.26-10.32.34:818][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Blueprints/BP_MeshStretch]
+[2025.02.26-10.32.34:840][380]LogSavePackage: Moving output files for package: /Game/Art/Blueprints/BP_MeshStretch
+[2025.02.26-10.32.34:841][380]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/BP_MeshStretch38DCF8F04C4320D0F4A818A9BA720D56.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset'
+[2025.02.26-10.32.34:871][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 233.320 ms (total: 1.53 sec)
+[2025.02.26-10.32.34:872][380]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset'.
+[2025.02.26-10.32.34:983][380]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.26-10.32.34:983][380]LogContentValidation: Enabled validators:
+[2025.02.26-10.32.34:983][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.26-10.32.34:983][380]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.26-10.32.34:983][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.26-10.32.34:983][380]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.26-10.32.34:983][380]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.26-10.32.34:983][380]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.26-10.32.34:983][380]AssetCheck: /Game/Art/Blueprints/BP_MeshStretch Validating asset
+[2025.02.26-10.33.01:237][129]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5495.633301
+[2025.02.26-10.33.01:404][134]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-10.33.01:404][134]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5495.766602, Update Interval: 312.982574
+[2025.02.26-10.33.32:024][ 12]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.33.32:024][ 12]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.33.32:024][ 12]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.33.32:024][ 12]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.33.32:086][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.02.26-10.33.32:092][ 12]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.33.32:092][ 12]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.33.32:092][ 12]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.33.32:092][ 12]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.33.32:152][ 12]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.33.32:152][ 12]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.33.32:152][ 12]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-10.33.32:152][ 12]LogScript: Warning: Script Msg called by: BP_MeshStretch_C /Engine/Transient.World_2:PersistentLevel.BP_MeshStretch_C_0
+[2025.02.26-10.33.34:690][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.26-10.33.34:850][ 76]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Blueprints/BP_MeshStretch] ([2] browsable assets)...
+[2025.02.26-10.33.34:851][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Blueprints/BP_MeshStretch]
+[2025.02.26-10.33.34:872][ 76]LogSavePackage: Moving output files for package: /Game/Art/Blueprints/BP_MeshStretch
+[2025.02.26-10.33.34:873][ 76]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/BP_MeshStretch264828DF4CDC543C33067880EE2092CA.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset'
+[2025.02.26-10.33.34:906][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 215.982 ms (total: 1.74 sec)
+[2025.02.26-10.33.34:906][ 76]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset'.
+[2025.02.26-10.33.35:016][ 76]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.26-10.33.35:016][ 76]LogContentValidation: Enabled validators:
+[2025.02.26-10.33.35:016][ 76]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.26-10.33.35:016][ 76]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.26-10.33.35:016][ 76]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.26-10.33.35:016][ 76]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.26-10.33.35:016][ 76]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.26-10.33.35:016][ 76]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.26-10.33.35:016][ 76]AssetCheck: /Game/Art/Blueprints/BP_MeshStretch Validating asset
+[2025.02.26-10.33.37:122][136]LogSlate: Window 'BP_MeshStretch' being destroyed
+[2025.02.26-10.39.01:648][589]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5855.014648
+[2025.02.26-10.39.01:764][596]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-10.39.01:764][596]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5855.114258, Update Interval: 328.735626
+[2025.02.26-10.45.30:266][907]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6242.598633
+[2025.02.26-10.45.30:399][915]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-10.45.30:399][915]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6242.714844, Update Interval: 354.070862
+[2025.02.26-10.52.05:049][595]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6636.385254
+[2025.02.26-10.52.05:184][603]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-10.52.05:184][603]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6636.502441, Update Interval: 318.124329
+[2025.02.26-10.58.15:469][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7005.802734
+[2025.02.26-10.58.15:585][828]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-10.58.15:585][828]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7005.902344, Update Interval: 354.841766
+[2025.02.26-11.00.00:482][122]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: e0f...22b
+[2025.02.26-11.00.00:482][122]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.55e+07
+[2025.02.26-11.00.00:631][131]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: e0f...22b Access[Expires: 2025.02.26-13.00.01 Remaining: 7200.18] Refresh[Expires: 2025-08-24T21:30:03.037Z Remaining: 15503402.04] State: Valid
+[2025.02.26-11.00.19:870][203]LogContentBrowser: Deferred new asset file creation: BP_MeshStretch_Child
+[2025.02.26-11.00.19:881][203]LogContentBrowser: Creating deferred item: BP_MeshStretch_Child
+[2025.02.26-11.00.19:893][204]LogContentBrowser: Renaming the item being created (Deferred Item: BP_MeshStretch_Child).
+[2025.02.26-11.00.24:703][495]LogContentBrowser: Attempting asset rename: BP_MeshStretch_Child -> Trial
+[2025.02.26-11.00.24:714][495]LogContentBrowser: End creating deferred item BP_MeshStretch_Child
+[2025.02.26-11.00.24:715][495]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints'.
+[2025.02.26-11.00.38:024][993]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2025.02.26-11.00.38:024][993]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2025.02.26-11.00.38:025][993]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.StaticMeshActor_1
+[2025.02.26-11.00.38:027][993]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.StaticMeshActor_1
+[2025.02.26-11.01.00:219][158]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Art/Blueprints/Trial.Trial_C
+[2025.02.26-11.01.00:219][158]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Art/Blueprints/Trial.Trial_C
+[2025.02.26-11.01.00:221][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:221][158]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:221][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:221][158]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:222][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:222][158]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:222][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:222][158]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:222][158]LogActorFactory: Actor Factory spawned Blueprint /Game/Art/Blueprints/Trial.Trial as actor: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:223][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:223][158]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:223][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:223][158]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:223][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:223][158]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:224][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:224][158]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:224][158]LogActorFactory: Actor Factory spawned Blueprint /Game/Art/Blueprints/Trial.Trial as actor: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:224][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:224][158]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:224][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:224][158]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:225][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:225][158]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:225][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:225][158]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:225][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:225][158]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:226][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:226][158]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:226][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:226][158]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:226][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:226][158]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:230][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:230][158]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:230][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:230][158]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:249][159]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:249][159]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:249][159]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:249][159]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:257][159]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:257][159]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:257][159]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:257][159]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:272][160]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:272][160]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:272][160]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:272][160]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:275][160]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:275][160]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:275][160]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:275][160]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:292][161]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:292][161]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:293][161]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:293][161]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:295][161]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:295][161]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:295][161]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:295][161]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:313][162]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:313][162]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:313][162]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:313][162]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:321][162]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:321][162]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:321][162]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:321][162]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:338][163]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:338][163]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:338][163]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:338][163]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:340][163]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:340][163]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:340][163]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:340][163]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:357][164]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:357][164]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:357][164]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:357][164]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:361][164]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:361][164]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:361][164]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:361][164]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:378][165]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:378][165]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:378][165]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:378][165]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:386][165]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:386][165]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:386][165]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:386][165]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:489][172]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:490][172]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:490][172]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:490][172]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:493][172]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:493][172]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:493][172]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:494][172]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:496][172]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:496][172]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:496][172]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:496][172]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:514][173]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:514][173]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:514][173]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:514][173]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:532][174]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:532][174]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:532][174]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:532][174]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:551][175]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:551][175]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:551][175]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:551][175]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:553][175]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:553][175]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:554][175]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:554][175]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:571][176]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:571][176]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:571][176]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:571][176]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:588][177]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:588][177]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:588][177]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:588][177]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:607][178]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:607][178]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:607][178]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:608][178]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:615][178]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:615][178]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:615][178]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:615][178]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:630][179]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:630][179]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:631][179]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:631][179]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:648][180]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:648][180]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:649][180]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:649][180]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:651][180]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:651][180]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:651][180]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:651][180]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:668][181]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:668][181]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:668][181]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:668][181]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:676][181]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:676][181]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:676][181]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:676][181]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:692][182]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:692][182]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:692][182]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:692][182]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:695][182]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:695][182]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:695][182]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:695][182]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:712][183]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:712][183]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:712][183]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:712][183]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:719][183]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:719][183]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:721][183]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:721][183]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:736][184]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:736][184]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:736][184]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:736][184]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:754][185]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:754][185]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:754][185]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:754][185]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:775][186]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:775][186]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:775][186]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:775][186]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_0
+[2025.02.26-11.01.00:969][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.02.26-11.01.00:976][195]LogEditorActor: Deleted 0 Actors (0.044 secs)
+[2025.02.26-11.01.00:983][195]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Art/Blueprints/Trial.Trial_C
+[2025.02.26-11.01.00:983][195]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Art/Blueprints/Trial.Trial_C
+[2025.02.26-11.01.00:985][195]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:985][195]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.00:985][195]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:985][195]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.00:986][195]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:986][195]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.00:986][195]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:986][195]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.00:987][195]LogActorFactory: Actor Factory spawned Blueprint /Game/Art/Blueprints/Trial.Trial as actor: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.00:987][195]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:987][195]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.00:987][195]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:987][195]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.00:988][195]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:988][195]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.00:988][195]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:988][195]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.00:988][195]LogActorFactory: Actor Factory spawned Blueprint /Game/Art/Blueprints/Trial.Trial as actor: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.00:988][195]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:988][195]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.00:988][195]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:988][195]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.00:990][195]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:990][195]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.00:990][195]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:990][195]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.00:991][195]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:991][195]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.00:991][195]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:991][195]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.00:992][195]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:992][195]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.00:992][195]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.00:992][195]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.25:018][608]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.25:018][608]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.25:018][608]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.25:018][608]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.42:152][614]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.42:152][614]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.42:152][614]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.42:152][614]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.43:086][654]LogSlate: Took 0.000720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.02.26-11.01.50:074][773]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.50:075][773]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.50:078][773]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.01.50:079][773]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.01.50:079][773]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.01.50:079][773]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.01.50:079][773]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.50:079][773]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.59:736][229]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.59:737][229]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.01.59:742][229]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.01.59:742][229]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.01.59:742][229]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.01.59:742][229]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.01.59:742][229]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.01.59:742][229]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.07:061][537]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.07:061][537]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.07:065][537]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.07:065][537]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.07:065][537]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.07:066][537]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.07:066][537]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.07:066][537]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.07:166][538]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.07:167][538]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.07:171][538]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.07:171][538]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.07:171][538]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.07:171][538]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.07:171][538]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.07:171][538]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.07:272][539]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.07:272][539]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.07:276][539]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.07:277][539]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.07:277][539]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.07:277][539]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.07:277][539]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.07:277][539]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.07:379][540]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.07:379][540]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.07:383][540]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.07:383][540]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.07:383][540]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.07:384][540]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.07:384][540]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.07:384][540]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.07:484][541]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.07:484][541]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.07:488][541]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.07:489][541]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.07:489][541]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.07:489][541]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.07:489][541]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.07:489][541]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.07:593][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.07:593][542]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.07:597][542]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.07:597][542]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.07:598][542]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.07:598][542]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.07:598][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.07:598][542]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.07:803][551]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.07:803][551]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.07:807][551]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.07:808][551]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.07:808][551]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.07:808][551]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.07:808][551]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.07:808][551]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.25:913][544]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.25:913][544]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.25:918][544]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.25:919][544]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.25:919][544]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.25:919][544]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.25:919][544]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.25:919][544]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.26:018][545]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.26:018][545]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.26:021][545]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.26:021][545]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.26:021][545]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.26:022][545]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.26:022][545]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.26:022][545]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.26:122][546]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.26:122][546]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.26:126][546]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.26:127][546]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.26:127][546]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.26:127][546]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.26:127][546]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.26:127][546]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.26:519][566]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.26:519][566]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.26:524][566]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.26:524][566]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.26:524][566]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.26:524][566]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.26:524][566]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.26:525][566]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.26:625][567]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.26:626][567]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.26:629][567]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.26:630][567]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.26:630][567]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.26:630][567]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.26:630][567]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.26:630][567]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.26:730][568]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.26:730][568]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.26:734][568]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.26:734][568]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.26:734][568]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.26:734][568]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.26:734][568]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.26:734][568]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.26:835][569]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.26:835][569]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.26:839][569]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.26:839][569]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.26:839][569]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.26:840][569]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.26:840][569]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.26:840][569]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.26:940][570]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.26:940][570]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.26:944][570]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.26:944][570]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.26:944][570]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.26:944][570]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.26:944][570]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.26:944][570]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.27:082][573]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.27:083][573]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.27:086][573]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.27:087][573]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.27:087][573]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.27:087][573]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.27:087][573]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.27:087][573]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.27:191][574]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.27:191][574]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.27:194][574]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.27:195][574]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.27:195][574]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.27:195][574]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.27:195][574]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.27:195][574]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.27:295][575]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.27:295][575]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.27:299][575]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.27:299][575]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.27:299][575]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.27:300][575]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.27:300][575]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.27:300][575]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.27:398][576]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.27:398][576]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.27:402][576]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.27:403][576]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.27:403][576]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.27:403][576]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.27:403][576]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.27:403][576]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.28:179][619]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.28:179][619]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.28:183][619]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.28:184][619]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.02.26-11.02.28:184][619]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2025.02.26-11.02.28:184][619]LogPhysics: Warning: TConvex Name:BodySetup /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1.NODE_AddSplineMeshComponent-0.BodySetup_2, Element [2] has no Geometry
+[2025.02.26-11.02.28:184][619]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.26-11.02.28:184][619]LogScript: Warning: Script Msg called by: Trial_C /Game/Art/Maps/NandiniMap.NandiniMap:PersistentLevel.Trial_C_1
+[2025.02.26-11.02.41:698][346]LogDerivedDataCache: C:/Users/n.parmar158/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.26-11.03.13:650][360]Cmd: SELECT NONE
+[2025.02.26-11.03.13:657][360]Cmd: SELECT NONE
+[2025.02.26-11.03.13:658][360]Cmd: SELECT NONE
+[2025.02.26-11.03.13:850][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.02.26-11.03.13:870][360]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Maps/NandiniMap_Auto6
+[2025.02.26-11.03.13:871][360]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/NandiniMap_Auto61B933E174502E41C27B49BB52E420517.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/Autosaves/Game/Art/Maps/NandiniMap_Auto6.umap'
+[2025.02.26-11.03.13:872][360]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Art/Maps/NandiniMap' took 0.056
+[2025.02.26-11.03.13:872][360]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2025.02.26-11.03.13:873][360]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Blueprints/Trial] ([2] browsable assets)...
+[2025.02.26-11.03.13:873][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Blueprints/Trial]
+[2025.02.26-11.03.13:877][360]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Blueprints/Trial_Auto6
+[2025.02.26-11.03.13:877][360]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/Trial_Auto668AAF3454CB8790240456BAA1AF2787D.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/Autosaves/Game/Art/Blueprints/Trial_Auto6.uasset'
+[2025.02.26-11.03.13:878][360]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: ================================================
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Total job queries 1,334, among them cache hits 213 (15.97%), DDC hits 1,094 (82.01%), Duplicates 10 (0.75%)
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Tracking 1,111 distinct input hashes that result in 870 distinct outputs (78.31%)
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: RAM used: 564.64 KiB of 3.20 GiB budget. Usage: 0.02%
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Shaders Compiled: 17
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Jobs assigned 17, completed 17 (100%)
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Average time worker was idle: 4797.81 s
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.08 s
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Job execution time: average 4.79 s, max 7.03 s
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Job life time (pending + execution): average 4.85 s, max 7.09
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Shader code size: average 8.007 KiB, min 2.379 KiB, max 13.609 KiB
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.16 s
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Jobs were issued in 17 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Average processing rate: 1.20 jobs/sec
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Total thread time: 12.04 s
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Total thread preprocess time: 18.642 s
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Percentage time preprocessing: 154.83%
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Effective parallelization: 0.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.27 sec, max 1.45 sec, min 1.09 sec)
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.70 sec, max 0.91 sec, min 0.61 sec)
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.18% of total time (compiled    4 times, average 0.70 sec, max 0.91 sec, min 0.61 sec)
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.12% of total time (compiled    2 times, average 1.27 sec, max 1.45 sec, min 1.09 sec)
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.54% of total time (compiled    4 times, average 0.44 sec, max 0.48 sec, min 0.35 sec)
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 9.13% of total time (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display:                                                  FVelocityPS - 4.39% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: === Material stats ===
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Materials Translated:    139
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Material Translation Only: 0.09 s (53%)
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.02.26-11.04.39:747][513]LogShaderCompilers: Display: ================================================
+[2025.02.26-11.04.49:726][ 90]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7399.314453
+[2025.02.26-11.04.49:842][ 97]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.26-11.04.49:842][ 97]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7399.414062, Update Interval: 321.367218
+[2025.02.26-11.04.55:172][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.26-11.04.55:380][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.02.26-11.04.55:426][406]LogSavePackage: Moving output files for package: /Game/Art/Maps/NandiniMap
+[2025.02.26-11.04.55:427][406]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/NandiniMap08CD1E4F48F57A4A24E8E48722275ACD.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap'
+[2025.02.26-11.04.55:434][406]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap'.
+[2025.02.26-11.04.55:437][406]LogFileHelpers: Saving map 'NandiniMap' took 0.119
+[2025.02.26-11.04.55:461][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 290.298 ms (total: 2.03 sec)
+[2025.02.26-11.04.55:462][406]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap'.
+[2025.02.26-11.04.55:583][406]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.26-11.04.55:583][406]LogContentValidation: Enabled validators:
+[2025.02.26-11.04.55:583][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.26-11.04.55:583][406]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.26-11.04.55:583][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.26-11.04.55:583][406]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.26-11.04.55:583][406]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.26-11.04.55:583][406]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.26-11.04.55:583][406]AssetCheck: /Game/Art/Maps/NandiniMap Validating asset
+[2025.02.26-11.04.56:565][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.02.26-11.04.57:579][458]LogSlate: Window 'Save Content' being destroyed
+[2025.02.26-11.04.57:607][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.26-11.04.57:718][458]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Blueprints/Trial] ([2] browsable assets)...
+[2025.02.26-11.04.57:718][458]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Blueprints/Trial]
+[2025.02.26-11.04.57:722][458]LogSavePackage: Moving output files for package: /Game/Art/Blueprints/Trial
+[2025.02.26-11.04.57:722][458]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/Trial61D3E87E489570298EBAA09E89D50A98.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/Trial.uasset'
+[2025.02.26-11.04.57:771][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 164.827 ms (total: 2.20 sec)
+[2025.02.26-11.04.57:884][458]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.26-11.04.57:884][458]LogContentValidation: Enabled validators:
+[2025.02.26-11.04.57:884][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.26-11.04.57:884][458]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.26-11.04.57:884][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.26-11.04.57:884][458]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.26-11.04.57:884][458]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.26-11.04.57:884][458]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.26-11.04.57:884][458]AssetCheck: /Game/Art/Blueprints/Trial Validating asset
+[2025.02.26-11.07.46:574][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.02.26-11.07.47:840][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.26-11.07.47:984][378]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Blueprints/BP_MeshStretch] ([2] browsable assets)...
+[2025.02.26-11.07.47:984][378]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Blueprints/BP_MeshStretch]
+[2025.02.26-11.07.48:007][378]LogSavePackage: Moving output files for package: /Game/Art/Blueprints/BP_MeshStretch
+[2025.02.26-11.07.48:007][378]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/BP_MeshStretch0C958DFA45C8CB67CC30CAAB7B97DE34.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset'
+[2025.02.26-11.07.48:037][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 196.768 ms (total: 2.39 sec)
+[2025.02.26-11.07.48:038][378]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset'.
+[2025.02.26-11.07.48:150][378]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.26-11.07.48:150][378]LogContentValidation: Enabled validators:
+[2025.02.26-11.07.48:150][378]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.26-11.07.48:150][378]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.26-11.07.48:150][378]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.26-11.07.48:150][378]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.26-11.07.48:150][378]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.26-11.07.48:150][378]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.26-11.07.48:150][378]AssetCheck: /Game/Art/Blueprints/BP_MeshStretch Validating asset
+[2025.02.26-11.08.20:650][853]Cmd: TRANSACTION UNDO
+[2025.02.26-11.08.20:650][853]LogEditorTransaction: Undo Set Rotation
+[2025.02.26-11.08.23:570][900]Cmd: TRANSACTION UNDO
+[2025.02.26-11.08.23:570][900]LogEditorTransaction: Undo Set Rotation
+[2025.02.26-11.08.26:812][  3]Cmd: TRANSACTION UNDO
+[2025.02.26-11.08.26:813][  3]LogEditorTransaction: Undo Set Rotation
+[2025.02.26-11.08.31:026][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.26-11.08.31:245][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2025.02.26-11.08.31:293][134]LogSavePackage: Moving output files for package: /Game/Art/Maps/NandiniMap
+[2025.02.26-11.08.31:293][134]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/NandiniMap52019D394DBD57420E52E2A2745AADB4.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap'
+[2025.02.26-11.08.31:301][134]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap'.
+[2025.02.26-11.08.31:303][134]LogFileHelpers: Saving map 'NandiniMap' took 0.119
+[2025.02.26-11.08.31:328][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 301.965 ms (total: 2.70 sec)
+[2025.02.26-11.08.31:330][134]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap'.
+[2025.02.26-11.08.31:450][134]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.26-11.08.31:450][134]LogContentValidation: Enabled validators:
+[2025.02.26-11.08.31:450][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.26-11.08.31:450][134]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.26-11.08.31:450][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.26-11.08.31:450][134]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.26-11.08.31:450][134]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.26-11.08.31:450][134]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.26-11.08.31:450][134]AssetCheck: /Game/Art/Maps/NandiniMap Validating asset
+[2025.02.26-11.08.54:667][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.26-11.08.54:869][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.02.26-11.08.54:899][507]LogSavePackage: Moving output files for package: /Game/Art/Maps/NandiniMap
+[2025.02.26-11.08.54:899][507]LogSavePackage: Moving '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Saved/NandiniMap42E56A9E440505E1746F0089C9F3044B.tmp' to '../../../../../../Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap'
+[2025.02.26-11.08.54:907][507]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap'.
+[2025.02.26-11.08.54:909][507]LogFileHelpers: Saving map 'NandiniMap' took 0.090
+[2025.02.26-11.08.54:947][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 280.686 ms (total: 2.98 sec)
+[2025.02.26-11.08.54:948][507]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap'.
+[2025.02.26-11.08.55:084][507]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.26-11.08.55:084][507]LogContentValidation: Enabled validators:
+[2025.02.26-11.08.55:084][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.26-11.08.55:084][507]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.26-11.08.55:084][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.26-11.08.55:084][507]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.26-11.08.55:084][507]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.26-11.08.55:084][507]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.26-11.08.55:084][507]AssetCheck: /Game/Art/Maps/NandiniMap Validating asset
+[2025.02.26-11.08.56:854][612]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{d34a2c57-87b4-496e-8cd9-e5435ae26b96}/SVROOT/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content'.

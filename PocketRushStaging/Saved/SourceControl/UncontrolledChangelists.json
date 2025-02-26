@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Maps/NandiniMap.umap",
+				"C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/BP_MeshStretch.uasset",
+				"C:/Users/n.parmar158/Documents/NeonWhite/Source/PocketRushStaging/PocketRushStaging/Content/Art/Blueprints/Trial.uasset",
 				"C:/Users/wytch/Documents/PocketRushStaging/PocketRushStaging/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
