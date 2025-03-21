@@ -2490,3 +2490,18 @@ FPackageName: Skipped package /Game/FirstPerson/Input/Actions/IA_Ability has a v
 [2025.03.21-19.47.40:490][956]LogPlayLevel: Display: Destroying online subsystem :Context_17
 [2025.03.21-19.48.40:734][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
 [2025.03.21-19.48.41:800][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.21-19.50.31:870][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-19.50.31:985][184]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/KillianContent/FirstPersonMap/E/RA/VGCSWDVDL4X10D8YHEQKFC
+[2025.03.21-19.50.31:985][184]LogSavePackage: Moving '../../../../../../Users/k.gage910/Documents/GitHub/PocketRushStaging/PocketRushStaging/Saved/VGCSWDVDL4X10D8YHEQKFC8BD012C34EEF2CA7AE9942BE3E5DC535.tmp' to '../../../../../../Users/k.gage910/Documents/GitHub/PocketRushStaging/PocketRushStaging/Content/__ExternalActors__/KillianContent/FirstPersonMap/E/RA/VGCSWDVDL4X10D8YHEQKFC.uasset'
+[2025.03.21-19.50.32:037][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.221 ms (total: 632.041 ms)
+[2025.03.21-19.50.32:039][184]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/k.gage910/Documents/GitHub/PocketRushStaging/PocketRushStaging/Content/KillianContent/FirstPersonMap.umap, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{b1a6b962-a756-425c-a4e5-570b4775ce2d}/SVROOT/Users/k.gage910/Documents/GitHub/PocketRushStaging/PocketRushStaging/Content/KillianContent/FirstPersonMap.umap'.
+[2025.03.21-19.50.32:040][184]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/k.gage910/Documents/GitHub/PocketRushStaging/PocketRushStaging/Content/__ExternalActors__/KillianContent/FirstPersonMap/E/RA/VGCSWDVDL4X10D8YHEQKFC.uasset, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{d066ef8d-0000-0000-0000-100000000000}/{b1a6b962-a756-425c-a4e5-570b4775ce2d}/SVROOT/Users/k.gage910/Documents/GitHub/PocketRushStaging/PocketRushStaging/Content/__ExternalActors__/KillianContent/FirstPersonMap/E/RA/VGCSWDVDL4X10D8YHEQKFC.uasset'.
+[2025.03.21-19.50.32:116][184]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.21-19.50.32:116][184]LogContentValidation: Enabled validators:
+[2025.03.21-19.50.32:116][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.21-19.50.32:116][184]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.21-19.50.32:116][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.21-19.50.32:116][184]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.21-19.50.32:116][184]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.21-19.50.32:116][184]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.21-19.50.32:117][184]AssetCheck: /Game/KillianContent/FirstPersonMap Validating asset
