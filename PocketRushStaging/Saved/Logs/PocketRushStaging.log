@@ -2606,3 +2606,1182 @@ Make sure '/Game/RobinStaging/BP_GameManager.BP_GameManager_C' has been compiled
 [2025.03.28-16.12.54:663][ 75]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.28-16.12.54:664][ 75]AssetCheck: /Game/RobinStaging/UI/WBP_MenuManager Validating asset
 [2025.03.28-16.13.03:567][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.28-16.13.29:201][989]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.28-16.13.29:251][989]LogContentBundle: [RobinMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.28-16.13.29:251][989]LogWorldPartition: Display: GenerateStreaming for 'RobinMap' started...
+[2025.03.28-16.13.29:261][989]LogWorldPartition: Display: GenerateStreaming for 'RobinMap' took 10.732 ms (total: 229.019 ms)
+[2025.03.28-16.13.29:262][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.28-16.13.29:263][989]LogPlayLevel: Creating play world package: /Game/RobinStaging/Maps/UEDPIE_0_RobinMap
+[2025.03.28-16.13.29:282][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019175s)
+[2025.03.28-16.13.29:282][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RobinStaging/Maps/RobinMap.RobinMap to /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap (0.019351s)
+[2025.03.28-16.13.29:321][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.03.28-16.13.29:325][989]LogChaosDD: Creating Chaos Debug Draw Scene for world RobinMap
+[2025.03.28-16.13.29:328][989]LogWorldPartition: ULevel::OnLevelLoaded(RobinMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.28-16.13.29:328][989]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.28-16.13.29:328][989]LogWorldPartition: UWorldPartition::Initialize : World = /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.28-16.13.29:328][989]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.28-16.13.29:332][989]LogWorldPartition: Display: WorldPartition initialize took 3.032 ms (total: 210.839 ms)
+[2025.03.28-16.13.29:332][989]LogPlayLevel: PIE: World Init took: (0.006220s)
+[2025.03.28-16.13.29:333][989]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.03.28-16.13.29:333][989]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.28-16.13.29:333][989]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.28-16.13.29:333][989]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.28-16.13.29:333][989]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.28-16.13.29:333][989]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.28-16.13.29:333][989]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.28-16.13.29:333][989]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.28-16.13.29:333][989]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.28-16.13.29:333][989]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.28-16.13.29:333][989]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.28-16.13.29:333][989]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.28-16.13.29:337][989]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.28-16.13.29:435][989]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.28-16.13.29:435][989]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.28-16.13.29:435][989]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.28-16.13.29:435][989]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.28-16.13.29:435][989]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.03.28-16.13.29:435][989]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.03.28-16.13.29:438][989]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.03.28-16.13.29:438][989]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.03.28-16.13.29:438][989]LogInit: FAudioDevice initialized with ID 11.
+[2025.03.28-16.13.29:438][989]LogAudio: Display: Audio Device (ID: 11) registered with world 'RobinMap'.
+[2025.03.28-16.13.29:438][989]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.28-16.13.29:442][989]LogLoad: Game class is 'BP_RobinPlayerGameMode_C'
+[2025.03.28-16.13.29:446][989]LogWorld: Bringing World /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap up for play (max tick rate 60) at 2025.03.28-10.13.29
+[2025.03.28-16.13.29:447][989]LogWorld: Bringing up level for play took: 0.003798
+[2025.03.28-16.13.29:449][989]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.03.28-16.13.29:451][989]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.03.28-16.13.29:453][989]PIE: Server logged in
+[2025.03.28-16.13.29:454][989]PIE: Play in editor total start time 0.204 seconds.
+[2025.03.28-16.13.31:723][ 76]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.28-16.13.31:723][ 76]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.28-16.13.32:447][105]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.28-16.13.32:448][105]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.28-16.13.34:261][185]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.28-16.13.34:261][185]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.28-16.13.35:230][230]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.28-16.13.35:230][230]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.28-16.13.36:166][273]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.28-16.13.36:167][273]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.28-16.13.37:185][323]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/RobinStaging/Maps/SelectMenu_Robin"
+[2025.03.28-16.13.37:185][323]LogNet: Browse: /Game/RobinStaging/Maps/SelectMenu_Robin
+[2025.03.28-16.13.37:185][323]LogLoad: LoadMap: /Game/RobinStaging/Maps/SelectMenu_Robin
+[2025.03.28-16.13.37:185][323]LogWorld: BeginTearingDown for /Game/RobinStaging/Maps/UEDPIE_0_RobinMap
+[2025.03.28-16.13.37:194][323]LogWorld: UWorld::CleanupWorld for RobinMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.13.37:197][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.13.37:197][323]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap
+[2025.03.28-16.13.37:281][323]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.28-16.13.37:290][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2025.03.28-16.13.37:294][323]LogStreaming: Display: FlushAsyncLoading(683): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.28-16.13.37:300][323]LogLinker: Display: [AssetLog] C:\Users\ruobi\OneDrive\文档\GitHub\PocketRushStaging\PocketRushStaging\Content\RobinStaging\Characters\Player\Blueprints\BP_Player.uasset: CreateExport: Failed to load Parent for Function /Game/RobinStaging/Characters/Player/Blueprints/BP_Player.BP_Player_C:CharDie; removing parent information, but keeping function
+[2025.03.28-16.13.37:328][323]LogAudio: Display: Audio Device (ID: 11) registered with world 'SelectMenu_Robin'.
+[2025.03.28-16.13.37:328][323]LogChaosDD: Creating Chaos Debug Draw Scene for world SelectMenu_Robin
+[2025.03.28-16.13.37:330][323]LogPlayLevel: PIE: World Init took: (0.001740s)
+[2025.03.28-16.13.37:335][323]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.28-16.13.37:336][323]LogWorld: Bringing World /Game/RobinStaging/Maps/UEDPIE_0_SelectMenu_Robin.SelectMenu_Robin up for play (max tick rate 60) at 2025.03.28-10.13.37
+[2025.03.28-16.13.37:336][323]LogWorld: Bringing up level for play took: 0.000863
+[2025.03.28-16.13.37:336][323]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.28-16.13.37:340][323]LogLoad: Took 0.155553 seconds to LoadMap(/Game/RobinStaging/Maps/SelectMenu_Robin)
+[2025.03.28-16.13.37:340][323]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/RobinStaging/Maps/SelectMenu_Robin
+[2025.03.28-16.13.38:354][364]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/William/Level1"
+[2025.03.28-16.13.38:354][364]LogNet: Browse: /Game/William/Level1
+[2025.03.28-16.13.38:354][364]LogLoad: LoadMap: /Game/William/Level1
+[2025.03.28-16.13.38:354][364]LogWorld: BeginTearingDown for /Game/RobinStaging/Maps/UEDPIE_0_SelectMenu_Robin
+[2025.03.28-16.13.38:356][364]LogWorld: UWorld::CleanupWorld for SelectMenu_Robin, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.13.38:356][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.13.38:401][364]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.28-16.13.38:403][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.03.28-16.13.38:406][364]LogStreaming: Display: FlushAsyncLoading(685): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.28-16.13.38:521][364]LogBlueprint: Warning: [AssetLog] C:\Users\ruobi\OneDrive\文档\GitHub\PocketRushStaging\PocketRushStaging\Content\William\Level1.umap: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2025.03.28-16.13.38:521][364]LogBlueprint: Warning: [AssetLog] C:\Users\ruobi\OneDrive\文档\GitHub\PocketRushStaging\PocketRushStaging\Content\William\Level1.umap: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2025.03.28-16.13.38:521][364]LogBlueprint: Warning: [AssetLog] C:\Users\ruobi\OneDrive\文档\GitHub\PocketRushStaging\PocketRushStaging\Content\William\Level1.umap: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2025.03.28-16.13.38:521][364]LogBlueprint: Warning: [AssetLog] C:\Users\ruobi\OneDrive\文档\GitHub\PocketRushStaging\PocketRushStaging\Content\William\Level1.umap: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2025.03.28-16.13.38:521][364]LogBlueprint: Error: [AssetLog] C:\Users\ruobi\OneDrive\文档\GitHub\PocketRushStaging\PocketRushStaging\Content\William\Level1.umap: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2025.03.28-16.13.38:521][364]LogBlueprint: Error: [AssetLog] C:\Users\ruobi\OneDrive\文档\GitHub\PocketRushStaging\PocketRushStaging\Content\William\Level1.umap: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2025.03.28-16.13.38:521][364]LogBlueprint: Error: [AssetLog] C:\Users\ruobi\OneDrive\文档\GitHub\PocketRushStaging\PocketRushStaging\Content\William\Level1.umap: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2025.03.28-16.13.38:521][364]LogBlueprint: Error: [AssetLog] C:\Users\ruobi\OneDrive\文档\GitHub\PocketRushStaging\PocketRushStaging\Content\William\Level1.umap: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2025.03.28-16.13.38:669][364]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level1'.
+[2025.03.28-16.13.38:669][364]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2025.03.28-16.13.38:670][364]LogPlayLevel: PIE: World Init took: (0.001500s)
+[2025.03.28-16.13.38:670][364]LogLoad: Game class is 'PocketRushGameMode_Basic_C'
+[2025.03.28-16.13.38:932][364]LogWorld: Bringing World /Game/William/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.03.28-10.13.38
+[2025.03.28-16.13.38:934][364]LogWorld: Bringing up level for play took: 0.262375
+[2025.03.28-16.13.38:938][364]LogLoad: Took 0.583458 seconds to LoadMap(/Game/William/Level1)
+[2025.03.28-16.13.38:938][364]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/William/Level1
+[2025.03.28-16.13.40:540][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-16.13.40:540][405]LogWorld: BeginTearingDown for /Game/William/UEDPIE_0_Level1
+[2025.03.28-16.13.40:541][405]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.13.40:555][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.13.40:561][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.28-16.13.40:566][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.13.40:594][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-16.13.40:595][405]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.28-16.13.40:595][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.28-16.13.40:597][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.28-16.13.40:615][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.03.28-16.13.40:652][406]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.03.28-16.15.44:040][258]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2075.426758
+[2025.03.28-16.15.44:187][263]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-16.15.44:187][263]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2075.551270, Update Interval: 309.972229
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Engine/Transient.World_2:WBP_SelectMenu_RobinEdit_C_27.WidgetTree_0.WBP_LevelSelectButton_C_0
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Engine/Transient.World_2:WBP_SelectMenu_RobinEdit_C_27.WidgetTree_0.WBP_LevelSelectButton_C_0
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonResult:0040
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Engine/Transient.World_2:WBP_SelectMenu_RobinEdit_C_27.WidgetTree_0.WBP_LevelSelectButton_C_0
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonResult:00E1
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Engine/Transient.World_2:WBP_SelectMenu_RobinEdit_C_27.WidgetTree_0.WBP_LevelSelectButton_C_0
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Engine/Transient.World_2:WBP_SelectMenu_RobinEdit_C_27.WidgetTree_0.WBP_LevelSelectButton_C_0
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonResult:0040
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Engine/Transient.World_2:WBP_SelectMenu_RobinEdit_C_27.WidgetTree_0.WBP_LevelSelectButton_C_0
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonResult:00E1
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Engine/Transient.World_2:WBP_SelectMenu_RobinEdit_C_27.WidgetTree_0.WBP_LevelSelectButton_C_1
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Engine/Transient.World_2:WBP_SelectMenu_RobinEdit_C_27.WidgetTree_0.WBP_LevelSelectButton_C_1
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonResult:0040
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Engine/Transient.World_2:WBP_SelectMenu_RobinEdit_C_27.WidgetTree_0.WBP_LevelSelectButton_C_1
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonResult:00E1
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Engine/Transient.World_2:WBP_SelectMenu_RobinEdit_C_27.WidgetTree_0.WBP_LevelSelectButton_C_1
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Engine/Transient.World_2:WBP_SelectMenu_RobinEdit_C_27.WidgetTree_0.WBP_LevelSelectButton_C_1
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonResult:0040
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Engine/Transient.World_2:WBP_SelectMenu_RobinEdit_C_27.WidgetTree_0.WBP_LevelSelectButton_C_1
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonResult:00E1
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Engine/Transient.World_2:WBP_SelectMenu_RobinEdit_C_27.WidgetTree_0.WBP_LevelSelectButton_C_2
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Engine/Transient.World_2:WBP_SelectMenu_RobinEdit_C_27.WidgetTree_0.WBP_LevelSelectButton_C_2
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonResult:0040
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Engine/Transient.World_2:WBP_SelectMenu_RobinEdit_C_27.WidgetTree_0.WBP_LevelSelectButton_C_2
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonResult:00E1
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Engine/Transient.World_2:WBP_SelectMenu_RobinEdit_C_27.WidgetTree_0.WBP_LevelSelectButton_C_2
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Engine/Transient.World_2:WBP_SelectMenu_RobinEdit_C_27.WidgetTree_0.WBP_LevelSelectButton_C_2
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonResult:0040
+[2025.03.28-16.17.54:670][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Engine/Transient.World_2:WBP_SelectMenu_RobinEdit_C_27.WidgetTree_0.WBP_LevelSelectButton_C_2
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonResult:00E1
+[2025.03.28-16.18.49:383][178]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.03.28-16.18.57:873][540]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.03.28-16.19.08:764][111]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.19.08:774][111]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.19.25:343][ 98]LogBlueprint: Error: [AssetLog] C:\Users\ruobi\OneDrive\文档\GitHub\PocketRushStaging\PocketRushStaging\Content\RobinStaging\UI\WBP_PlayerHUD.uasset: [Compiler] Can't connect pins  Return Value  and  Target : Actor Object Reference is not compatible with BP Level End Object Reference.
+[2025.03.28-16.19.25:344][ 98]LogBlueprint: Error: [AssetLog] C:\Users\ruobi\OneDrive\文档\GitHub\PocketRushStaging\PocketRushStaging\Content\RobinStaging\UI\WBP_PlayerHUD.uasset: [Compiler] Invalid pin connection from ' Return Value ' to ' Target '. You may have changed the type after the connections were made.
+[2025.03.28-16.19.25:344][ 98]LogBlueprint: Error: [AssetLog] C:\Users\ruobi\OneDrive\文档\GitHub\PocketRushStaging\PocketRushStaging\Content\RobinStaging\UI\WBP_PlayerHUD.uasset: [Compiler] Can't connect pins  Target  and  Return Value : BP Level End Object Reference is not compatible with Actor Object Reference.
+[2025.03.28-16.19.25:418][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.03.28-16.19.44:507][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.03.28-16.19.45:239][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.19.45:289][255]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/UI/WBP_PlayerHUD] ([2] browsable assets)...
+[2025.03.28-16.19.45:296][255]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/RobinStaging/UI/WBP_PlayerHUD.WBP_PlayerHUD]
+[2025.03.28-16.19.45:296][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/UI/WBP_PlayerHUD]
+[2025.03.28-16.19.45:305][255]LogSavePackage: Moving output files for package: /Game/RobinStaging/UI/WBP_PlayerHUD
+[2025.03.28-16.19.45:306][255]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/WBP_PlayerHUD26E657B34C3F0A4FBB3FCFB092C53721.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/UI/WBP_PlayerHUD.uasset'
+[2025.03.28-16.19.45:317][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.861 ms (total: 3.12 sec)
+[2025.03.28-16.19.45:347][255]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.19.45:347][255]LogContentValidation: Enabled validators:
+[2025.03.28-16.19.45:347][255]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.19.45:347][255]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.19.45:347][255]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.19.45:347][255]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.19.45:347][255]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.19.45:347][255]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.19.45:348][255]AssetCheck: /Game/RobinStaging/UI/WBP_PlayerHUD Validating asset
+[2025.03.28-16.19.52:494][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.19.52:548][682]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RobinStaging/UI/WBP_PlayerHUD] ([2] browsable assets)...
+[2025.03.28-16.19.52:548][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/UI/WBP_PlayerHUD]
+[2025.03.28-16.19.52:557][682]LogSavePackage: Moving output files for package: /Game/RobinStaging/UI/WBP_PlayerHUD
+[2025.03.28-16.19.52:557][682]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/WBP_PlayerHUD1369ED2346A8949769D71B9BCFC8A857.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/UI/WBP_PlayerHUD.uasset'
+[2025.03.28-16.19.52:568][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.860 ms (total: 3.20 sec)
+[2025.03.28-16.19.52:598][682]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.19.52:598][682]LogContentValidation: Enabled validators:
+[2025.03.28-16.19.52:598][682]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.19.52:598][682]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.19.52:598][682]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.19.52:598][682]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.19.52:598][682]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.19.52:598][682]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.19.52:600][682]AssetCheck: /Game/RobinStaging/UI/WBP_PlayerHUD Validating asset
+[2025.03.28-16.20.10:932][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.20.10:994][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RobinStaging/UI/WBP_PlayerHUD] ([2] browsable assets)...
+[2025.03.28-16.20.10:994][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/UI/WBP_PlayerHUD]
+[2025.03.28-16.20.11:004][780]LogSavePackage: Moving output files for package: /Game/RobinStaging/UI/WBP_PlayerHUD
+[2025.03.28-16.20.11:004][780]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/WBP_PlayerHUDEADC0C374F5478CAD4AF959F0AF9B420.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/UI/WBP_PlayerHUD.uasset'
+[2025.03.28-16.20.11:014][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.340 ms (total: 3.28 sec)
+[2025.03.28-16.20.11:053][780]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.20.11:053][780]LogContentValidation: Enabled validators:
+[2025.03.28-16.20.11:053][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.20.11:053][780]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.20.11:053][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.20.11:053][780]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.20.11:053][780]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.20.11:053][780]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.20.11:054][780]AssetCheck: /Game/RobinStaging/UI/WBP_PlayerHUD Validating asset
+[2025.03.28-16.20.21:672][415]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue_1
+	WBP_LevelComplete_C /Engine/Transient.World_8:WBP_LevelComplete_C_31
+	Function /Game/RobinStaging/UI/WBP_LevelComplete.WBP_LevelComplete_C:ExecuteUbergraph_WBP_LevelComplete:042B
+[2025.03.28-16.20.21:672][415]LogScript: Warning: Accessed None
+	WBP_LevelComplete_C /Engine/Transient.World_8:WBP_LevelComplete_C_31
+	Function /Game/RobinStaging/UI/WBP_LevelComplete.WBP_LevelComplete_C:ExecuteUbergraph_WBP_LevelComplete:040C
+[2025.03.28-16.21.18:605][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.28-16.21.19:286][790]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.21.19:361][790]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/UI/WBP_LevelComplete] ([2] browsable assets)...
+[2025.03.28-16.21.19:373][790]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/RobinStaging/UI/WBP_LevelComplete.WBP_LevelComplete]
+[2025.03.28-16.21.19:373][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/UI/WBP_LevelComplete]
+[2025.03.28-16.21.19:387][790]LogSavePackage: Moving output files for package: /Game/RobinStaging/UI/WBP_LevelComplete
+[2025.03.28-16.21.19:387][790]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/WBP_LevelComplete20F45BB641A348646742B991A7AB60CA.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/UI/WBP_LevelComplete.uasset'
+[2025.03.28-16.21.19:397][790]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.652 ms (total: 3.39 sec)
+[2025.03.28-16.21.19:430][790]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.21.19:430][790]LogContentValidation: Enabled validators:
+[2025.03.28-16.21.19:430][790]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.21.19:430][790]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.21.19:430][790]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.21.19:430][790]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.21.19:430][790]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.21.19:430][790]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.21.19:431][790]AssetCheck: /Game/RobinStaging/UI/WBP_LevelComplete Validating asset
+[2025.03.28-16.21.22:706][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.03.28-16.21.24:311][ 42]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.28-16.21.24:508][ 42]LogContentBundle: [RobinMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.28-16.21.24:508][ 42]LogWorldPartition: Display: GenerateStreaming for 'RobinMap' started...
+[2025.03.28-16.21.24:545][ 42]LogWorldPartition: Display: GenerateStreaming for 'RobinMap' took 37.865 ms (total: 266.884 ms)
+[2025.03.28-16.21.24:549][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.28-16.21.24:552][ 42]LogPlayLevel: Creating play world package: /Game/RobinStaging/Maps/UEDPIE_0_RobinMap
+[2025.03.28-16.21.24:610][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057883s)
+[2025.03.28-16.21.24:611][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RobinStaging/Maps/RobinMap.RobinMap to /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap (0.059300s)
+[2025.03.28-16.21.24:675][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2025.03.28-16.21.24:678][ 42]LogChaosDD: Creating Chaos Debug Draw Scene for world RobinMap
+[2025.03.28-16.21.24:683][ 42]LogWorldPartition: ULevel::OnLevelLoaded(RobinMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.28-16.21.24:683][ 42]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.28-16.21.24:683][ 42]LogWorldPartition: UWorldPartition::Initialize : World = /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.28-16.21.24:683][ 42]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.28-16.21.24:687][ 42]LogWorldPartition: Display: WorldPartition initialize took 4.471 ms (total: 215.310 ms)
+[2025.03.28-16.21.24:687][ 42]LogPlayLevel: PIE: World Init took: (0.009166s)
+[2025.03.28-16.21.24:689][ 42]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.03.28-16.21.24:689][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.28-16.21.24:689][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.28-16.21.24:689][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.28-16.21.24:689][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.28-16.21.24:689][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.28-16.21.24:689][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.28-16.21.24:689][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.28-16.21.24:689][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.28-16.21.24:689][ 42]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.28-16.21.24:689][ 42]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.28-16.21.24:691][ 42]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.28-16.21.24:696][ 42]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.28-16.21.24:809][ 42]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.28-16.21.24:809][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.28-16.21.24:809][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.28-16.21.24:809][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.28-16.21.24:809][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.03.28-16.21.24:809][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.03.28-16.21.24:812][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.03.28-16.21.24:812][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.03.28-16.21.24:812][ 42]LogInit: FAudioDevice initialized with ID 12.
+[2025.03.28-16.21.24:812][ 42]LogAudio: Display: Audio Device (ID: 12) registered with world 'RobinMap'.
+[2025.03.28-16.21.24:812][ 42]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.03.28-16.21.24:816][ 42]LogLoad: Game class is 'BP_RobinPlayerGameMode_C'
+[2025.03.28-16.21.24:819][ 42]LogWorld: Bringing World /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap up for play (max tick rate 60) at 2025.03.28-10.21.24
+[2025.03.28-16.21.24:819][ 42]LogWorld: Bringing up level for play took: 0.003514
+[2025.03.28-16.21.24:822][ 42]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.03.28-16.21.24:825][ 42]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.03.28-16.21.24:827][ 42]PIE: Server logged in
+[2025.03.28-16.21.24:828][ 42]PIE: Play in editor total start time 0.321 seconds.
+[2025.03.28-16.21.26:333][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-16.21.26:334][ 99]LogWorld: BeginTearingDown for /Game/RobinStaging/Maps/UEDPIE_0_RobinMap
+[2025.03.28-16.21.26:335][ 99]LogWorld: UWorld::CleanupWorld for RobinMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.21.26:337][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.21.26:337][ 99]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap
+[2025.03.28-16.21.26:359][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.28-16.21.26:369][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.21.26:437][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-16.21.26:438][ 99]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.03.28-16.21.26:438][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.28-16.21.26:446][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.28-16.21.26:472][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2025.03.28-16.21.26:548][100]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.03.28-16.21.32:265][396]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.21.32:265][396]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Engine/Transient.World_10:WBP_LevelSelectButton_C_27
+[2025.03.28-16.21.32:265][396]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Engine/Transient.World_10:WBP_LevelSelectButton_C_27
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonResult:0040
+[2025.03.28-16.21.32:266][396]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Engine/Transient.World_10:WBP_LevelSelectButton_C_27
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonResult:00E1
+[2025.03.28-16.21.32:266][396]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.21.32:266][396]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Engine/Transient.World_10:WBP_LevelSelectButton_C_27
+[2025.03.28-16.21.32:266][396]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Engine/Transient.World_10:WBP_LevelSelectButton_C_27
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonResult:0040
+[2025.03.28-16.21.32:266][396]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Engine/Transient.World_10:WBP_LevelSelectButton_C_27
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonResult:00E1
+[2025.03.28-16.21.36:521][636]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2427.906006
+[2025.03.28-16.21.36:621][642]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-16.21.36:621][642]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2427.990234, Update Interval: 350.348206
+[2025.03.28-16.22.00:490][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.28-16.22.01:080][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.22.01:150][ 92]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton] ([2] browsable assets)...
+[2025.03.28-16.22.01:150][ 92]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.22.01:150][ 92]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_0
+[2025.03.28-16.22.01:150][ 92]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_0
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.22.01:150][ 92]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_0
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.22.01:150][ 92]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.22.01:150][ 92]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_0
+[2025.03.28-16.22.01:150][ 92]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_0
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.22.01:150][ 92]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_0
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.22.01:158][ 92]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton]
+[2025.03.28-16.22.01:158][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton]
+[2025.03.28-16.22.01:166][ 92]LogSavePackage: Moving output files for package: /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton
+[2025.03.28-16.22.01:167][ 92]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/WBP_LevelSelectButton4692ABCD4F3DBBC13B434897AD99E13C.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.uasset'
+[2025.03.28-16.22.01:179][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.488 ms (total: 3.49 sec)
+[2025.03.28-16.22.01:222][ 92]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.22.01:222][ 92]LogContentValidation: Enabled validators:
+[2025.03.28-16.22.01:222][ 92]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.22.01:222][ 92]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.22.01:222][ 92]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.22.01:222][ 92]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.22.01:222][ 92]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.22.01:222][ 92]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.22.01:223][ 92]AssetCheck: /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton Validating asset
+[2025.03.28-16.22.50:703][  9]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.22.50:731][  9]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.23.03:265][726]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.23.03:275][726]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.23.14:615][367]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.23.14:620][367]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.23.17:224][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.03.28-16.23.17:912][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.23.17:952][550]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/UI/WBP_SelectMenu_RobinEdit] ([2] browsable assets)...
+[2025.03.28-16.23.17:952][550]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.23.17:952][550]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_0.WidgetTree_0.WBP_LevelSelectButton_C_0
+[2025.03.28-16.23.17:952][550]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_0.WidgetTree_0.WBP_LevelSelectButton_C_0
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.23.17:952][550]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_0.WidgetTree_0.WBP_LevelSelectButton_C_0
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.23.17:952][550]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.23.17:952][550]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_0.WidgetTree_0.WBP_LevelSelectButton_C_0
+[2025.03.28-16.23.17:952][550]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_0.WidgetTree_0.WBP_LevelSelectButton_C_0
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.23.17:952][550]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_0.WidgetTree_0.WBP_LevelSelectButton_C_0
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.23.17:952][550]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.23.17:952][550]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_0.WidgetTree_0.WBP_LevelSelectButton_C_1
+[2025.03.28-16.23.17:952][550]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_0.WidgetTree_0.WBP_LevelSelectButton_C_1
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.23.17:952][550]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_0.WidgetTree_0.WBP_LevelSelectButton_C_1
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.23.17:952][550]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.23.17:952][550]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_0.WidgetTree_0.WBP_LevelSelectButton_C_1
+[2025.03.28-16.23.17:952][550]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_0.WidgetTree_0.WBP_LevelSelectButton_C_1
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.23.17:952][550]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_0.WidgetTree_0.WBP_LevelSelectButton_C_1
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.23.17:953][550]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.23.17:953][550]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_0.WidgetTree_0.WBP_LevelSelectButton_C_2
+[2025.03.28-16.23.17:953][550]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_0.WidgetTree_0.WBP_LevelSelectButton_C_2
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.23.17:953][550]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_0.WidgetTree_0.WBP_LevelSelectButton_C_2
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.23.17:953][550]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.23.17:953][550]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_0.WidgetTree_0.WBP_LevelSelectButton_C_2
+[2025.03.28-16.23.17:953][550]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_0.WidgetTree_0.WBP_LevelSelectButton_C_2
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.23.17:953][550]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_0.WidgetTree_0.WBP_LevelSelectButton_C_2
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.23.17:969][550]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/RobinStaging/UI/WBP_SelectMenu_RobinEdit.WBP_SelectMenu_RobinEdit]
+[2025.03.28-16.23.17:969][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/UI/WBP_SelectMenu_RobinEdit]
+[2025.03.28-16.23.17:974][550]LogSavePackage: Moving output files for package: /Game/RobinStaging/UI/WBP_SelectMenu_RobinEdit
+[2025.03.28-16.23.17:976][550]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/WBP_SelectMenu_RobinEditF458D2024C61DB125F13B79E3D7FF295.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/UI/WBP_SelectMenu_RobinEdit.uasset'
+[2025.03.28-16.23.17:986][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.329 ms (total: 3.56 sec)
+[2025.03.28-16.23.18:012][550]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.23.18:012][550]LogContentValidation: Enabled validators:
+[2025.03.28-16.23.18:012][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.23.18:012][550]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.23.18:012][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.23.18:012][550]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.23.18:012][550]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.23.18:012][550]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.23.18:012][550]AssetCheck: /Game/RobinStaging/UI/WBP_SelectMenu_RobinEdit Validating asset
+[2025.03.28-16.23.28:108][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.28-16.23.28:921][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.23.28:982][192]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/UI/WBP_SelectMenu_RobinEdit] ([2] browsable assets)...
+[2025.03.28-16.23.28:982][192]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.23.28:982][192]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_1.WidgetTree_0.WBP_LevelSelectButton_C_0
+[2025.03.28-16.23.28:982][192]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_1.WidgetTree_0.WBP_LevelSelectButton_C_0
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.23.28:982][192]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_1.WidgetTree_0.WBP_LevelSelectButton_C_0
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.23.28:982][192]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.23.28:982][192]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_1.WidgetTree_0.WBP_LevelSelectButton_C_0
+[2025.03.28-16.23.28:982][192]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_1.WidgetTree_0.WBP_LevelSelectButton_C_0
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.23.28:982][192]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_1.WidgetTree_0.WBP_LevelSelectButton_C_0
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.23.28:983][192]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.23.28:983][192]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_1.WidgetTree_0.WBP_LevelSelectButton_C_1
+[2025.03.28-16.23.28:983][192]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_1.WidgetTree_0.WBP_LevelSelectButton_C_1
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.23.28:983][192]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_1.WidgetTree_0.WBP_LevelSelectButton_C_1
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.23.28:983][192]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.23.28:983][192]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_1.WidgetTree_0.WBP_LevelSelectButton_C_1
+[2025.03.28-16.23.28:983][192]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_1.WidgetTree_0.WBP_LevelSelectButton_C_1
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.23.28:983][192]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_1.WidgetTree_0.WBP_LevelSelectButton_C_1
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.23.28:983][192]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.23.28:983][192]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_1.WidgetTree_0.WBP_LevelSelectButton_C_2
+[2025.03.28-16.23.28:983][192]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_1.WidgetTree_0.WBP_LevelSelectButton_C_2
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.23.28:983][192]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_1.WidgetTree_0.WBP_LevelSelectButton_C_2
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.23.28:983][192]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.23.28:983][192]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_1.WidgetTree_0.WBP_LevelSelectButton_C_2
+[2025.03.28-16.23.28:983][192]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_1.WidgetTree_0.WBP_LevelSelectButton_C_2
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.23.28:983][192]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_SelectMenu_RobinEdit_C_1.WidgetTree_0.WBP_LevelSelectButton_C_2
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.23.28:985][192]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/RobinStaging/UI/WBP_SelectMenu_RobinEdit.WBP_SelectMenu_RobinEdit]
+[2025.03.28-16.23.28:985][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/UI/WBP_SelectMenu_RobinEdit]
+[2025.03.28-16.23.28:990][192]LogSavePackage: Moving output files for package: /Game/RobinStaging/UI/WBP_SelectMenu_RobinEdit
+[2025.03.28-16.23.28:990][192]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/WBP_SelectMenu_RobinEdit818CD0224BEB3E845E4CB8B5E5242379.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/UI/WBP_SelectMenu_RobinEdit.uasset'
+[2025.03.28-16.23.28:999][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.624 ms (total: 3.64 sec)
+[2025.03.28-16.23.29:028][192]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.23.29:028][192]LogContentValidation: Enabled validators:
+[2025.03.28-16.23.29:028][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.23.29:028][192]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.23.29:028][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.23.29:028][192]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.23.29:028][192]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.23.29:028][192]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.23.29:028][192]AssetCheck: /Game/RobinStaging/UI/WBP_SelectMenu_RobinEdit Validating asset
+[2025.03.28-16.23.46:899][225]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.23.46:921][225]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.23.59:378][923]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.23.59:399][923]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.24.11:081][583]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.24.11:110][583]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.24.12:362][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.28-16.24.12:867][677]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.24.12:935][677]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/UI/WBP_PlayerHUD] ([2] browsable assets)...
+[2025.03.28-16.24.12:939][677]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/RobinStaging/UI/WBP_PlayerHUD.WBP_PlayerHUD]
+[2025.03.28-16.24.12:939][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/UI/WBP_PlayerHUD]
+[2025.03.28-16.24.12:948][677]LogSavePackage: Moving output files for package: /Game/RobinStaging/UI/WBP_PlayerHUD
+[2025.03.28-16.24.12:948][677]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/WBP_PlayerHUD1042B3B84227D78F98F73DA8BF675DE2.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/UI/WBP_PlayerHUD.uasset'
+[2025.03.28-16.24.12:958][677]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.271 ms (total: 3.73 sec)
+[2025.03.28-16.24.12:988][677]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.24.12:988][677]LogContentValidation: Enabled validators:
+[2025.03.28-16.24.12:988][677]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.24.12:988][677]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.24.12:988][677]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.24.12:988][677]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.24.12:988][677]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.24.12:988][677]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.24.12:989][677]AssetCheck: /Game/RobinStaging/UI/WBP_PlayerHUD Validating asset
+[2025.03.28-16.24.25:549][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.03.28-16.24.26:074][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.24.26:153][444]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/UI/WBP_PauseMenu_RobinEdit] ([2] browsable assets)...
+[2025.03.28-16.24.26:161][444]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/RobinStaging/UI/WBP_PauseMenu_RobinEdit.WBP_PauseMenu_RobinEdit]
+[2025.03.28-16.24.26:161][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/UI/WBP_PauseMenu_RobinEdit]
+[2025.03.28-16.24.26:168][444]LogSavePackage: Moving output files for package: /Game/RobinStaging/UI/WBP_PauseMenu_RobinEdit
+[2025.03.28-16.24.26:169][444]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/WBP_PauseMenu_RobinEditA20F8BE040772092D6E2EE89511260FA.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/UI/WBP_PauseMenu_RobinEdit.uasset'
+[2025.03.28-16.24.26:182][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.180 ms (total: 3.84 sec)
+[2025.03.28-16.24.26:210][444]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.24.26:210][444]LogContentValidation: Enabled validators:
+[2025.03.28-16.24.26:210][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.24.26:210][444]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.24.26:210][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.24.26:210][444]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.24.26:210][444]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.24.26:210][444]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.24.26:210][444]AssetCheck: /Game/RobinStaging/UI/WBP_PauseMenu_RobinEdit Validating asset
+[2025.03.28-16.24.32:331][777]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.24.32:352][777]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.24.51:077][848]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.24.51:102][848]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.25.00:877][394]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.25.00:882][394]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.25.11:412][989]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.25.11:431][989]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.25.13:579][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.03.28-16.25.14:179][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.25.14:231][138]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/UI/WBP_LevelComplete] ([2] browsable assets)...
+[2025.03.28-16.25.14:236][138]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/RobinStaging/UI/WBP_LevelComplete.WBP_LevelComplete]
+[2025.03.28-16.25.14:236][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/UI/WBP_LevelComplete]
+[2025.03.28-16.25.14:250][138]LogSavePackage: Moving output files for package: /Game/RobinStaging/UI/WBP_LevelComplete
+[2025.03.28-16.25.14:251][138]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/WBP_LevelCompleteEDFDD27546A1E870D6AD76A3EFAA97D7.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/UI/WBP_LevelComplete.uasset'
+[2025.03.28-16.25.14:260][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.838 ms (total: 3.92 sec)
+[2025.03.28-16.25.14:292][138]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.25.14:292][138]LogContentValidation: Enabled validators:
+[2025.03.28-16.25.14:292][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.25.14:292][138]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.25.14:292][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.25.14:292][138]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.25.14:292][138]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.25.14:292][138]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.25.14:293][138]AssetCheck: /Game/RobinStaging/UI/WBP_LevelComplete Validating asset
+[2025.03.28-16.25.22:441][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.28-16.25.23:108][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.25.23:155][648]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/UI/WBP_LevelComplete] ([2] browsable assets)...
+[2025.03.28-16.25.23:163][648]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/RobinStaging/UI/WBP_LevelComplete.WBP_LevelComplete]
+[2025.03.28-16.25.23:163][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/UI/WBP_LevelComplete]
+[2025.03.28-16.25.23:177][648]LogSavePackage: Moving output files for package: /Game/RobinStaging/UI/WBP_LevelComplete
+[2025.03.28-16.25.23:178][648]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/WBP_LevelComplete60D49F9B4A1220DDEEF63F88155D101A.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/UI/WBP_LevelComplete.uasset'
+[2025.03.28-16.25.23:188][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.966 ms (total: 4.00 sec)
+[2025.03.28-16.25.23:222][648]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.25.23:222][648]LogContentValidation: Enabled validators:
+[2025.03.28-16.25.23:222][648]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.25.23:222][648]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.25.23:222][648]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.25.23:222][648]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.25.23:222][648]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.25.23:222][648]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.25.23:222][648]AssetCheck: /Game/RobinStaging/UI/WBP_LevelComplete Validating asset
+[2025.03.28-16.25.44:683][899]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.25.44:691][899]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.26.12:468][513]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.26.12:493][513]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.26.13:789][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.03.28-16.26.14:538][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.26.14:597][623]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton] ([2] browsable assets)...
+[2025.03.28-16.26.14:597][623]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.26.14:597][623]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_1
+[2025.03.28-16.26.14:597][623]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_1
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.26.14:597][623]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_1
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.26.14:598][623]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.26.14:598][623]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_1
+[2025.03.28-16.26.14:598][623]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_1
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.26.14:598][623]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_1
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.26.14:602][623]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton]
+[2025.03.28-16.26.14:602][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton]
+[2025.03.28-16.26.14:611][623]LogSavePackage: Moving output files for package: /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton
+[2025.03.28-16.26.14:611][623]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/WBP_LevelSelectButtonFDB04A57492DB85A79203C966DEB287A.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.uasset'
+[2025.03.28-16.26.14:622][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.024 ms (total: 4.08 sec)
+[2025.03.28-16.26.14:660][623]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.26.14:660][623]LogContentValidation: Enabled validators:
+[2025.03.28-16.26.14:660][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.26.14:660][623]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.26.14:660][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.26.14:660][623]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.26.14:660][623]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.26.14:660][623]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.26.14:660][623]AssetCheck: /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton Validating asset
+[2025.03.28-16.26.41:310][152]LogStreaming: Display: FlushAsyncLoading(686): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.28-16.26.41:329][152]LogChaosDD: Creating Chaos Debug Draw Scene for world SelectMenu_Robin
+[2025.03.28-16.26.41:331][152]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/RobinStaging/Maps/SelectMenu_Robin.SelectMenu_Robin:PersistentLevel.SelectMenu_Robin
+[2025.03.28-16.26.41:331][152]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.03.28-16.26.43:205][245]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.26.43:218][245]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.27.10:583][886]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.27.10:583][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.27.10:642][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.03.28-16.27.22:747][594]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.27.22:752][594]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.27.26:009][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.03.28-16.27.26:550][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.27.26:609][802]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton] ([2] browsable assets)...
+[2025.03.28-16.27.26:610][802]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.27.26:610][802]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_2
+[2025.03.28-16.27.26:610][802]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_2
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.27.26:610][802]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_2
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.27.26:610][802]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.27.26:610][802]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_2
+[2025.03.28-16.27.26:610][802]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_2
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.27.26:610][802]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_2
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.27.26:616][802]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton]
+[2025.03.28-16.27.26:616][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton]
+[2025.03.28-16.27.26:624][802]LogSavePackage: Moving output files for package: /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton
+[2025.03.28-16.27.26:625][802]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/WBP_LevelSelectButton2E99E0E24B64066F3DFF7DB539EF77E9.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.uasset'
+[2025.03.28-16.27.26:633][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.231 ms (total: 4.17 sec)
+[2025.03.28-16.27.26:663][802]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.27.26:663][802]LogContentValidation: Enabled validators:
+[2025.03.28-16.27.26:663][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.27.26:663][802]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.27.26:663][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.27.26:663][802]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.27.26:663][802]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.27.26:663][802]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.27.26:664][802]AssetCheck: /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton Validating asset
+[2025.03.28-16.27.38:161][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.03.28-16.27.38:780][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.27.38:831][510]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton] ([2] browsable assets)...
+[2025.03.28-16.27.38:831][510]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.27.38:831][510]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_3
+[2025.03.28-16.27.38:831][510]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_3
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.27.38:831][510]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_3
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.27.38:831][510]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetSelectMenuRef'!
+[2025.03.28-16.27.38:831][510]LogScript: Warning: Script Msg called by: WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_3
+[2025.03.28-16.27.38:831][510]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_3
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:0040
+[2025.03.28-16.27.38:831][510]LogScript: Warning: Accessed None trying to read property CallFunc_GetSelectMenuRef_FoundRef
+	WBP_LevelSelectButton_C /Game/RobinStaging/Maps/RobinMap.RobinMap:WBP_LevelSelectButton_C_3
+	Function /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton_C:GetButtonName:00E1
+[2025.03.28-16.27.38:835][510]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.WBP_LevelSelectButton]
+[2025.03.28-16.27.38:835][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton]
+[2025.03.28-16.27.38:843][510]LogSavePackage: Moving output files for package: /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton
+[2025.03.28-16.27.38:843][510]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/WBP_LevelSelectButtonC2A234EF4F467F451D06AA80F9B297AA.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton.uasset'
+[2025.03.28-16.27.38:854][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.746 ms (total: 4.24 sec)
+[2025.03.28-16.27.38:880][510]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.27.38:880][510]LogContentValidation: Enabled validators:
+[2025.03.28-16.27.38:880][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.27.38:880][510]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.27.38:880][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.27.38:880][510]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.27.38:880][510]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.27.38:880][510]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.27.38:880][510]AssetCheck: /Game/RobinStaging/UI/ComponentWBP/WBP_LevelSelectButton Validating asset
+[2025.03.28-16.28.24:132][216]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2835.520508
+[2025.03.28-16.28.24:266][224]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-16.28.24:266][224]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2835.636719, Update Interval: 357.681824
+[2025.03.28-16.30.02:063][ 76]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.30.02:067][ 76]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.30.21:239][186]LogBlueprint: Error: [AssetLog] C:\Users\ruobi\OneDrive\文档\GitHub\PocketRushStaging\PocketRushStaging\Content\RobinStaging\Characters\Player\Blueprints\BP_Player.uasset: [Compiler] Function ' GetHearts ' is private and can't be accessed outside of its defined class ' WBP Player HUD '.
+[2025.03.28-16.30.21:320][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.03.28-16.30.21:376][186]LogBlueprint: Warning: Blueprint /Game/Xinghua/Mesh/Enemy01/BP_Enemy01 is missing GeneratedClass asset tag
+[2025.03.28-16.30.36:959][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.28-16.30.37:485][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.30.37:518][127]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/UI/WBP_PlayerHUD] ([2] browsable assets)...
+[2025.03.28-16.30.37:521][127]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/RobinStaging/UI/WBP_PlayerHUD.WBP_PlayerHUD]
+[2025.03.28-16.30.37:521][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/UI/WBP_PlayerHUD]
+[2025.03.28-16.30.37:530][127]LogSavePackage: Moving output files for package: /Game/RobinStaging/UI/WBP_PlayerHUD
+[2025.03.28-16.30.37:530][127]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/WBP_PlayerHUD5CD507FC44362C0973C065AB74F3DC1B.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/UI/WBP_PlayerHUD.uasset'
+[2025.03.28-16.30.37:541][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.325 ms (total: 4.30 sec)
+[2025.03.28-16.30.37:573][127]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.30.37:573][127]LogContentValidation: Enabled validators:
+[2025.03.28-16.30.37:573][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.30.37:573][127]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.30.37:573][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.30.37:573][127]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.30.37:573][127]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.30.37:573][127]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.30.37:574][127]AssetCheck: /Game/RobinStaging/UI/WBP_PlayerHUD Validating asset
+[2025.03.28-16.30.45:435][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.30.45:483][597]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/UI/WBP_MenuManager] ([2] browsable assets)...
+[2025.03.28-16.30.45:490][597]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/RobinStaging/UI/WBP_MenuManager.WBP_MenuManager]
+[2025.03.28-16.30.45:490][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/UI/WBP_MenuManager]
+[2025.03.28-16.30.45:501][597]LogSavePackage: Moving output files for package: /Game/RobinStaging/UI/WBP_MenuManager
+[2025.03.28-16.30.45:501][597]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/WBP_MenuManager2E5CA827414674F02CD233971E9C8AD7.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/UI/WBP_MenuManager.uasset'
+[2025.03.28-16.30.45:512][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.970 ms (total: 4.37 sec)
+[2025.03.28-16.30.45:548][597]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.30.45:548][597]LogContentValidation: Enabled validators:
+[2025.03.28-16.30.45:548][597]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.30.45:548][597]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.30.45:548][597]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.30.45:548][597]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.30.45:548][597]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.30.45:548][597]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.30.45:548][597]AssetCheck: /Game/RobinStaging/UI/WBP_MenuManager Validating asset
+[2025.03.28-16.30.49:773][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.28-16.30.49:836][843]LogBlueprint: Warning: Blueprint /Game/Xinghua/Mesh/Enemy01/BP_Enemy01 is missing GeneratedClass asset tag
+[2025.03.28-16.30.50:589][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.30.50:656][878]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/Characters/Player/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.03.28-16.30.50:720][878]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RobinStaging/Characters/Player/Blueprints/BP_Player.BP_Player]
+[2025.03.28-16.30.50:720][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/Characters/Player/Blueprints/BP_Player]
+[2025.03.28-16.30.50:733][878]LogSavePackage: Moving output files for package: /Game/RobinStaging/Characters/Player/Blueprints/BP_Player
+[2025.03.28-16.30.50:733][878]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/BP_PlayerF8B75BF34502D0FBAF053FA12A39D234.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/Characters/Player/Blueprints/BP_Player.uasset'
+[2025.03.28-16.30.50:744][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.612 ms (total: 4.53 sec)
+[2025.03.28-16.30.50:778][878]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.30.50:778][878]LogContentValidation: Enabled validators:
+[2025.03.28-16.30.50:778][878]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.30.50:778][878]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.30.50:778][878]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.30.50:778][878]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.30.50:778][878]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.30.50:778][878]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.30.50:778][878]AssetCheck: /Game/RobinStaging/Characters/Player/Blueprints/BP_Player Validating asset
+[2025.03.28-16.31.13:975][261]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.31.13:993][261]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.31.17:484][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.28-16.31.18:027][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.31.18:082][480]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RobinStaging/BP_GameManager] ([2] browsable assets)...
+[2025.03.28-16.31.18:082][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/BP_GameManager]
+[2025.03.28-16.31.18:089][480]LogSavePackage: Moving output files for package: /Game/RobinStaging/BP_GameManager
+[2025.03.28-16.31.18:089][480]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/BP_GameManagerB01441E1473DE5EE3ED376B1D68814D7.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/BP_GameManager.uasset'
+[2025.03.28-16.31.18:099][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.806 ms (total: 4.60 sec)
+[2025.03.28-16.31.18:122][480]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.31.18:122][480]LogContentValidation: Enabled validators:
+[2025.03.28-16.31.18:122][480]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.31.18:122][480]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.31.18:122][480]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.31.18:122][480]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.31.18:122][480]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.31.18:122][480]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.31.18:122][480]AssetCheck: /Game/RobinStaging/BP_GameManager Validating asset
+[2025.03.28-16.31.32:922][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.31.32:983][329]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RobinStaging/BP_GameManager] ([2] browsable assets)...
+[2025.03.28-16.31.32:984][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/BP_GameManager]
+[2025.03.28-16.31.32:992][329]LogSavePackage: Moving output files for package: /Game/RobinStaging/BP_GameManager
+[2025.03.28-16.31.32:992][329]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/BP_GameManager5CAFF2214FC7FEA2CF0F88B8755F24A5.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/BP_GameManager.uasset'
+[2025.03.28-16.31.33:002][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.312 ms (total: 4.68 sec)
+[2025.03.28-16.31.33:031][329]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.31.33:031][329]LogContentValidation: Enabled validators:
+[2025.03.28-16.31.33:031][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.31.33:031][329]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.31.33:031][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.31.33:031][329]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.31.33:031][329]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.31.33:031][329]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.31.33:032][329]AssetCheck: /Game/RobinStaging/BP_GameManager Validating asset
+[2025.03.28-16.31.37:154][573]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.03.28-16.31.37:218][574]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.03.28-16.31.38:995][667]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RobinStaging/Characters/Enemies/BPCharacters/BP_BaseEnemy.BP_BaseEnemy
+[2025.03.28-16.31.38:999][667]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.03.28-16.31.41:699][747]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.03.28-16.31.42:861][811]LogSlate: Window 'BP_BaseEnemy' being destroyed
+[2025.03.28-16.31.45:065][942]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.31.45:065][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.31.45:143][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.03.28-16.31.45:905][987]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.28-16.31.45:905][987]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.31.45:905][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.31.45:967][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.03.28-16.31.46:610][ 24]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.31.46:610][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.31.46:619][ 24]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.31.46:619][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.31.46:680][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.28-16.31.47:286][ 59]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.31.47:286][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.31.47:293][ 59]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.31.47:293][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.31.47:340][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.28-16.31.47:891][ 91]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.31.47:891][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.31.47:900][ 91]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.31.47:900][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.31.47:949][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.28-16.31.48:749][138]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.31.48:749][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.31.48:756][138]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.31.48:756][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.31.48:800][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.03.28-16.31.49:453][176]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.31.49:453][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.31.49:461][176]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.31.49:461][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.31.49:507][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.03.28-16.31.51:294][282]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.31.51:294][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.31.51:301][282]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.31.51:301][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.31.51:344][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.03.28-16.31.59:066][744]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.28-16.31.59:066][744]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.31.59:066][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.31.59:116][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.03.28-16.32.02:620][862]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RobinStaging/Characters/Enemies/BPCharacters/BP_BasicShootEnemy.BP_BasicShootEnemy
+[2025.03.28-16.32.02:621][862]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.03.28-16.32.03:195][863]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.03.28-16.32.05:144][937]LogSlate: Window 'BP_BasicShootEnemy' being destroyed
+[2025.03.28-16.32.18:229][702]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RobinStaging/Characters/Enemies/BPCharacters/BP_BaseEnemy.BP_BaseEnemy
+[2025.03.28-16.32.18:229][702]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.03.28-16.32.35:694][658]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.32.35:699][658]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.32.41:479][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.28-16.32.42:420][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.32.42:486][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RobinStaging/Characters/Enemies/BPCharacters/BP_BaseEnemy] ([2] browsable assets)...
+[2025.03.28-16.32.42:548][ 35]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RobinStaging/Characters/Enemies/BPCharacters/BP_BaseEnemy.BP_BaseEnemy]
+[2025.03.28-16.32.42:548][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/Characters/Enemies/BPCharacters/BP_BaseEnemy]
+[2025.03.28-16.32.42:562][ 35]LogSavePackage: Moving output files for package: /Game/RobinStaging/Characters/Enemies/BPCharacters/BP_BaseEnemy
+[2025.03.28-16.32.42:563][ 35]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/BP_BaseEnemyC94F20E1497B169AB5294C83F4EB7FAD.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/Characters/Enemies/BPCharacters/BP_BaseEnemy.uasset'
+[2025.03.28-16.32.42:573][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.034 ms (total: 4.83 sec)
+[2025.03.28-16.32.42:605][ 35]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.32.42:605][ 35]LogContentValidation: Enabled validators:
+[2025.03.28-16.32.42:605][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.32.42:605][ 35]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.32.42:605][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.32.42:605][ 35]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.32.42:605][ 35]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.32.42:605][ 35]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.32.42:606][ 35]AssetCheck: /Game/RobinStaging/Characters/Enemies/BPCharacters/BP_BaseEnemy Validating asset
+[2025.03.28-16.32.53:254][643]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.32.53:260][643]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.32.57:524][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.28-16.32.58:102][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.32.58:153][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RobinStaging/Characters/Enemies/BPCharacters/BP_BaseEnemy] ([2] browsable assets)...
+[2025.03.28-16.32.58:214][910]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RobinStaging/Characters/Enemies/BPCharacters/BP_BaseEnemy.BP_BaseEnemy]
+[2025.03.28-16.32.58:214][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/Characters/Enemies/BPCharacters/BP_BaseEnemy]
+[2025.03.28-16.32.58:228][910]LogSavePackage: Moving output files for package: /Game/RobinStaging/Characters/Enemies/BPCharacters/BP_BaseEnemy
+[2025.03.28-16.32.58:228][910]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/BP_BaseEnemy7A6A2A4248BA132BC3CD56891A14C671.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/Characters/Enemies/BPCharacters/BP_BaseEnemy.uasset'
+[2025.03.28-16.32.58:239][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.084 ms (total: 4.97 sec)
+[2025.03.28-16.32.58:268][910]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.32.58:268][910]LogContentValidation: Enabled validators:
+[2025.03.28-16.32.58:268][910]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.32.58:268][910]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.32.58:268][910]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.32.58:268][910]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.32.58:268][910]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.32.58:268][910]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.32.58:268][910]AssetCheck: /Game/RobinStaging/Characters/Enemies/BPCharacters/BP_BaseEnemy Validating asset
+[2025.03.28-16.33.15:060][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.33.15:143][908]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RobinStaging/Characters/Enemies/BPCharacters/BP_BasicShootEnemy] ([2] browsable assets)...
+[2025.03.28-16.33.15:144][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/Characters/Enemies/BPCharacters/BP_BasicShootEnemy]
+[2025.03.28-16.33.15:150][908]LogSavePackage: Moving output files for package: /Game/RobinStaging/Characters/Enemies/BPCharacters/BP_BasicShootEnemy
+[2025.03.28-16.33.15:150][908]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/BP_BasicShootEnemy735AD6F340B26F092323BEB4145EB9FB.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/Characters/Enemies/BPCharacters/BP_BasicShootEnemy.uasset'
+[2025.03.28-16.33.15:163][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.001 ms (total: 5.07 sec)
+[2025.03.28-16.33.15:192][908]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.33.15:192][908]LogContentValidation: Enabled validators:
+[2025.03.28-16.33.15:192][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.33.15:192][908]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.33.15:192][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.33.15:192][908]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.33.15:192][908]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.33.15:192][908]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.33.15:192][908]AssetCheck: /Game/RobinStaging/Characters/Enemies/BPCharacters/BP_BasicShootEnemy Validating asset
+[2025.03.28-16.33.23:914][353]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.28-16.33.24:085][353]LogContentBundle: [RobinMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.28-16.33.24:086][353]LogWorldPartition: Display: GenerateStreaming for 'RobinMap' started...
+[2025.03.28-16.33.24:101][353]LogWorldPartition: Display: GenerateStreaming for 'RobinMap' took 15.067 ms (total: 281.951 ms)
+[2025.03.28-16.33.24:102][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.28-16.33.24:103][353]LogPlayLevel: Creating play world package: /Game/RobinStaging/Maps/UEDPIE_0_RobinMap
+[2025.03.28-16.33.24:124][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021393s)
+[2025.03.28-16.33.24:125][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RobinStaging/Maps/RobinMap.RobinMap to /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap (0.021613s)
+[2025.03.28-16.33.24:185][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2025.03.28-16.33.24:203][353]LogChaosDD: Creating Chaos Debug Draw Scene for world RobinMap
+[2025.03.28-16.33.24:206][353]LogWorldPartition: ULevel::OnLevelLoaded(RobinMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.28-16.33.24:206][353]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.28-16.33.24:206][353]LogWorldPartition: UWorldPartition::Initialize : World = /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.28-16.33.24:206][353]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.28-16.33.24:209][353]LogWorldPartition: Display: WorldPartition initialize took 3.405 ms (total: 218.715 ms)
+[2025.03.28-16.33.24:209][353]LogPlayLevel: PIE: World Init took: (0.006799s)
+[2025.03.28-16.33.24:211][353]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.03.28-16.33.24:211][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.28-16.33.24:211][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.28-16.33.24:211][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.28-16.33.24:211][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.28-16.33.24:211][353]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.28-16.33.24:211][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.28-16.33.24:211][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.28-16.33.24:211][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.28-16.33.24:211][353]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.28-16.33.24:211][353]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.28-16.33.24:211][353]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.28-16.33.24:216][353]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.28-16.33.24:337][353]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.28-16.33.24:337][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.28-16.33.24:339][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.28-16.33.24:339][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.28-16.33.24:339][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.03.28-16.33.24:339][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.03.28-16.33.24:341][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.03.28-16.33.24:341][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.03.28-16.33.24:341][353]LogInit: FAudioDevice initialized with ID 13.
+[2025.03.28-16.33.24:341][353]LogAudio: Display: Audio Device (ID: 13) registered with world 'RobinMap'.
+[2025.03.28-16.33.24:342][353]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.03.28-16.33.24:345][353]LogLoad: Game class is 'BP_RobinPlayerGameMode_C'
+[2025.03.28-16.33.24:347][353]LogWorld: Bringing World /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap up for play (max tick rate 60) at 2025.03.28-10.33.24
+[2025.03.28-16.33.24:349][353]LogWorld: Bringing up level for play took: 0.003241
+[2025.03.28-16.33.24:351][353]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.03.28-16.33.24:354][353]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.03.28-16.33.24:355][353]PIE: Server logged in
+[2025.03.28-16.33.24:357][353]PIE: Play in editor total start time 0.272 seconds.
+[2025.03.28-16.33.29:331][577]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.28-16.33.29:331][577]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.28-16.33.30:484][629]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.28-16.33.30:484][629]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.28-16.33.32:865][744]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.28-16.33.32:865][744]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.28-16.33.33:770][784]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.28-16.33.33:770][784]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.28-16.33.34:539][814]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.28-16.33.34:539][814]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.28-16.33.36:156][898]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/RobinStaging/Maps/RobinMap"
+[2025.03.28-16.33.36:156][898]LogNet: Browse: /Game/RobinStaging/Maps/RobinMap
+[2025.03.28-16.33.36:156][898]LogLoad: LoadMap: /Game/RobinStaging/Maps/RobinMap
+[2025.03.28-16.33.36:156][898]LogWorld: BeginTearingDown for /Game/RobinStaging/Maps/UEDPIE_0_RobinMap
+[2025.03.28-16.33.36:159][898]LogWorld: UWorld::CleanupWorld for RobinMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.33.36:162][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.33.36:162][898]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap
+[2025.03.28-16.33.36:277][898]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.28-16.33.36:362][898]LogUObjectHash: Compacting FUObjectHashTables data took  21.69ms
+[2025.03.28-16.33.36:386][898]LogPlayLevel: Creating play world package: /Game/RobinStaging/Maps/UEDPIE_0_RobinMap
+[2025.03.28-16.33.36:424][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037180s)
+[2025.03.28-16.33.36:425][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RobinStaging/Maps/RobinMap.RobinMap to /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap (0.037907s)
+[2025.03.28-16.33.36:425][898]LogAudio: Display: Audio Device (ID: 13) registered with world 'RobinMap'.
+[2025.03.28-16.33.36:425][898]LogChaosDD: Creating Chaos Debug Draw Scene for world RobinMap
+[2025.03.28-16.33.36:429][898]LogWorldPartition: ULevel::OnLevelLoaded(RobinMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.28-16.33.36:429][898]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.28-16.33.36:429][898]LogWorldPartition: UWorldPartition::Initialize : World = /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.28-16.33.36:429][898]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.28-16.33.36:437][898]LogWorldPartition: Display: WorldPartition initialize took 7.148 ms (total: 225.864 ms)
+[2025.03.28-16.33.36:437][898]LogPlayLevel: PIE: World Init took: (0.013134s)
+[2025.03.28-16.33.36:437][898]LogLoad: Game class is 'BP_RobinPlayerGameMode_C'
+[2025.03.28-16.33.36:449][898]LogWorld: Bringing World /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap up for play (max tick rate 60) at 2025.03.28-10.33.36
+[2025.03.28-16.33.36:452][898]LogWorld: Bringing up level for play took: 0.012401
+[2025.03.28-16.33.36:461][898]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.28-16.33.36:461][898]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.28-16.33.36:465][898]LogLoad: Took 0.308211 seconds to LoadMap(/Game/RobinStaging/Maps/UEDPIE_0_RobinMap)
+[2025.03.28-16.33.36:465][898]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/RobinStaging/Maps/UEDPIE_0_RobinMap
+[2025.03.28-16.33.37:491][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-16.33.37:491][935]LogWorld: BeginTearingDown for /Game/RobinStaging/Maps/UEDPIE_0_RobinMap
+[2025.03.28-16.33.37:492][935]LogWorld: UWorld::CleanupWorld for RobinMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.33.37:496][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.33.37:496][935]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap
+[2025.03.28-16.33.37:505][935]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.28-16.33.37:512][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.33.37:543][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-16.33.37:544][935]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.03.28-16.33.37:544][935]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.03.28-16.33.37:547][935]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.03.28-16.33.37:559][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.03.28-16.33.37:599][936]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.03.28-16.33.42:529][152]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.03.28-16.33.43:302][177]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RobinStaging/LevelEnd/BP_LevelEnd.BP_LevelEnd
+[2025.03.28-16.33.43:306][177]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.03.28-16.34.01:093][141]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.34.01:114][141]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.28-16.34.05:864][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.28-16.34.06:412][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.34.06:467][443]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/LevelEnd/BP_LevelEnd] ([2] browsable assets)...
+[2025.03.28-16.34.06:529][443]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RobinStaging/LevelEnd/BP_LevelEnd.BP_LevelEnd]
+[2025.03.28-16.34.06:529][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/LevelEnd/BP_LevelEnd]
+[2025.03.28-16.34.06:536][443]LogSavePackage: Moving output files for package: /Game/RobinStaging/LevelEnd/BP_LevelEnd
+[2025.03.28-16.34.06:537][443]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/BP_LevelEnd3D067FA84ED9922628CDCF9403AEE63D.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/LevelEnd/BP_LevelEnd.uasset'
+[2025.03.28-16.34.06:547][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.276 ms (total: 5.21 sec)
+[2025.03.28-16.34.06:584][443]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.34.06:584][443]LogContentValidation: Enabled validators:
+[2025.03.28-16.34.06:584][443]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.34.06:584][443]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.34.06:584][443]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.34.06:584][443]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.34.06:584][443]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.34.06:584][443]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.34.06:584][443]AssetCheck: /Game/RobinStaging/LevelEnd/BP_LevelEnd Validating asset
+[2025.03.28-16.34.09:791][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2025.03.28-16.34.10:612][569]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.28-16.34.10:631][569]LogContentBundle: [RobinMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.28-16.34.10:632][569]LogWorldPartition: Display: GenerateStreaming for 'RobinMap' started...
+[2025.03.28-16.34.10:636][569]LogWorldPartition: Display: GenerateStreaming for 'RobinMap' took 4.727 ms (total: 286.679 ms)
+[2025.03.28-16.34.10:637][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.28-16.34.10:637][569]LogPlayLevel: Creating play world package: /Game/RobinStaging/Maps/UEDPIE_0_RobinMap
+[2025.03.28-16.34.10:645][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008359s)
+[2025.03.28-16.34.10:645][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RobinStaging/Maps/RobinMap.RobinMap to /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap (0.008425s)
+[2025.03.28-16.34.10:673][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.03.28-16.34.10:674][569]LogChaosDD: Creating Chaos Debug Draw Scene for world RobinMap
+[2025.03.28-16.34.10:676][569]LogWorldPartition: ULevel::OnLevelLoaded(RobinMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.28-16.34.10:676][569]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.28-16.34.10:676][569]LogWorldPartition: UWorldPartition::Initialize : World = /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.28-16.34.10:676][569]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.28-16.34.10:679][569]LogWorldPartition: Display: WorldPartition initialize took 2.393 ms (total: 228.258 ms)
+[2025.03.28-16.34.10:679][569]LogPlayLevel: PIE: World Init took: (0.004469s)
+[2025.03.28-16.34.10:679][569]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.03.28-16.34.10:679][569]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.28-16.34.10:679][569]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.28-16.34.10:679][569]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.28-16.34.10:679][569]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.28-16.34.10:679][569]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.28-16.34.10:679][569]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.28-16.34.10:679][569]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.28-16.34.10:679][569]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.28-16.34.10:679][569]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.28-16.34.10:679][569]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.28-16.34.10:679][569]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.28-16.34.10:683][569]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.28-16.34.10:774][569]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.28-16.34.10:774][569]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.28-16.34.10:774][569]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.28-16.34.10:774][569]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.28-16.34.10:775][569]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.03.28-16.34.10:775][569]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.03.28-16.34.10:778][569]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.03.28-16.34.10:778][569]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.03.28-16.34.10:778][569]LogInit: FAudioDevice initialized with ID 14.
+[2025.03.28-16.34.10:778][569]LogAudio: Display: Audio Device (ID: 14) registered with world 'RobinMap'.
+[2025.03.28-16.34.10:778][569]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.03.28-16.34.10:781][569]LogLoad: Game class is 'BP_RobinPlayerGameMode_C'
+[2025.03.28-16.34.10:784][569]LogWorld: Bringing World /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap up for play (max tick rate 60) at 2025.03.28-10.34.10
+[2025.03.28-16.34.10:785][569]LogWorld: Bringing up level for play took: 0.003401
+[2025.03.28-16.34.10:787][569]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.03.28-16.34.10:789][569]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.03.28-16.34.10:792][569]PIE: Server logged in
+[2025.03.28-16.34.10:793][569]PIE: Play in editor total start time 0.162 seconds.
+[2025.03.28-16.34.16:594][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-16.34.16:595][815]LogWorld: BeginTearingDown for /Game/RobinStaging/Maps/UEDPIE_0_RobinMap
+[2025.03.28-16.34.16:597][815]LogWorld: UWorld::CleanupWorld for RobinMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.34.16:604][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.34.16:605][815]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap
+[2025.03.28-16.34.16:714][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.28-16.34.16:734][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.34.16:801][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-16.34.16:803][815]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.03.28-16.34.16:803][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.03.28-16.34.16:807][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.03.28-16.34.16:840][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.03.28-16.34.16:889][816]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.03.28-16.34.19:122][910]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.28-16.34.19:219][910]LogContentBundle: [RobinMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.28-16.34.19:219][910]LogWorldPartition: Display: GenerateStreaming for 'RobinMap' started...
+[2025.03.28-16.34.19:231][910]LogWorldPartition: Display: GenerateStreaming for 'RobinMap' took 11.727 ms (total: 298.407 ms)
+[2025.03.28-16.34.19:231][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.28-16.34.19:231][910]LogPlayLevel: Creating play world package: /Game/RobinStaging/Maps/UEDPIE_0_RobinMap
+[2025.03.28-16.34.19:252][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020570s)
+[2025.03.28-16.34.19:252][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RobinStaging/Maps/RobinMap.RobinMap to /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap (0.020731s)
+[2025.03.28-16.34.19:305][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.03.28-16.34.19:308][910]LogChaosDD: Creating Chaos Debug Draw Scene for world RobinMap
+[2025.03.28-16.34.19:310][910]LogWorldPartition: ULevel::OnLevelLoaded(RobinMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.28-16.34.19:310][910]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.28-16.34.19:310][910]LogWorldPartition: UWorldPartition::Initialize : World = /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.28-16.34.19:310][910]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.28-16.34.19:313][910]LogWorldPartition: Display: WorldPartition initialize took 2.884 ms (total: 231.143 ms)
+[2025.03.28-16.34.19:313][910]LogPlayLevel: PIE: World Init took: (0.005963s)
+[2025.03.28-16.34.19:314][910]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.03.28-16.34.19:314][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.28-16.34.19:314][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.28-16.34.19:314][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.28-16.34.19:314][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.28-16.34.19:314][910]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.28-16.34.19:315][910]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.28-16.34.19:315][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.28-16.34.19:315][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.28-16.34.19:315][910]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.28-16.34.19:315][910]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.28-16.34.19:315][910]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.28-16.34.19:319][910]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.28-16.34.19:426][910]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.28-16.34.19:427][910]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.28-16.34.19:427][910]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.28-16.34.19:427][910]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.28-16.34.19:427][910]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.03.28-16.34.19:427][910]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.03.28-16.34.19:430][910]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.03.28-16.34.19:430][910]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.03.28-16.34.19:430][910]LogInit: FAudioDevice initialized with ID 15.
+[2025.03.28-16.34.19:430][910]LogAudio: Display: Audio Device (ID: 15) registered with world 'RobinMap'.
+[2025.03.28-16.34.19:430][910]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.03.28-16.34.19:432][910]LogLoad: Game class is 'BP_RobinPlayerGameMode_C'
+[2025.03.28-16.34.19:436][910]LogWorld: Bringing World /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap up for play (max tick rate 60) at 2025.03.28-10.34.19
+[2025.03.28-16.34.19:436][910]LogWorld: Bringing up level for play took: 0.003494
+[2025.03.28-16.34.19:439][910]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2025.03.28-16.34.19:441][910]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.03.28-16.34.19:443][910]PIE: Server logged in
+[2025.03.28-16.34.19:444][910]PIE: Play in editor total start time 0.226 seconds.
+[2025.03.28-16.34.25:101][146]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.28-16.34.25:101][146]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.28-16.34.26:354][208]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/RobinStaging/Maps/RobinMap"
+[2025.03.28-16.34.26:354][208]LogNet: Browse: /Game/RobinStaging/Maps/RobinMap
+[2025.03.28-16.34.26:354][208]LogLoad: LoadMap: /Game/RobinStaging/Maps/RobinMap
+[2025.03.28-16.34.26:354][208]LogWorld: BeginTearingDown for /Game/RobinStaging/Maps/UEDPIE_0_RobinMap
+[2025.03.28-16.34.26:355][208]LogWorld: UWorld::CleanupWorld for RobinMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.34.26:356][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.34.26:356][208]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap
+[2025.03.28-16.34.26:409][208]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.28-16.34.26:414][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.28-16.34.26:417][208]LogPlayLevel: Creating play world package: /Game/RobinStaging/Maps/UEDPIE_0_RobinMap
+[2025.03.28-16.34.26:422][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005212s)
+[2025.03.28-16.34.26:422][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RobinStaging/Maps/RobinMap.RobinMap to /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap (0.005271s)
+[2025.03.28-16.34.26:422][208]LogAudio: Display: Audio Device (ID: 15) registered with world 'RobinMap'.
+[2025.03.28-16.34.26:422][208]LogChaosDD: Creating Chaos Debug Draw Scene for world RobinMap
+[2025.03.28-16.34.26:423][208]LogWorldPartition: ULevel::OnLevelLoaded(RobinMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.28-16.34.26:423][208]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.28-16.34.26:423][208]LogWorldPartition: UWorldPartition::Initialize : World = /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.28-16.34.26:423][208]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.28-16.34.26:425][208]LogWorldPartition: Display: WorldPartition initialize took 1.805 ms (total: 232.948 ms)
+[2025.03.28-16.34.26:425][208]LogPlayLevel: PIE: World Init took: (0.003512s)
+[2025.03.28-16.34.26:425][208]LogLoad: Game class is 'BP_RobinPlayerGameMode_C'
+[2025.03.28-16.34.26:429][208]LogWorld: Bringing World /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap up for play (max tick rate 60) at 2025.03.28-10.34.26
+[2025.03.28-16.34.26:429][208]LogWorld: Bringing up level for play took: 0.003418
+[2025.03.28-16.34.26:432][208]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.28-16.34.26:432][208]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.28-16.34.26:434][208]LogLoad: Took 0.079467 seconds to LoadMap(/Game/RobinStaging/Maps/UEDPIE_0_RobinMap)
+[2025.03.28-16.34.26:434][208]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/RobinStaging/Maps/UEDPIE_0_RobinMap
+[2025.03.28-16.34.28:557][298]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.28-16.34.28:557][298]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.28-16.34.30:537][387]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.28-16.34.30:537][387]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.28-16.34.33:134][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-16.34.33:134][498]LogWorld: BeginTearingDown for /Game/RobinStaging/Maps/UEDPIE_0_RobinMap
+[2025.03.28-16.34.33:135][498]LogWorld: UWorld::CleanupWorld for RobinMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-16.34.33:139][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.34.33:139][498]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap
+[2025.03.28-16.34.33:159][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.28-16.34.33:167][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-16.34.33:206][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-16.34.33:206][498]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.03.28-16.34.33:207][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.03.28-16.34.33:210][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.03.28-16.34.33:240][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.03.28-16.34.33:282][499]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2025.03.28-16.35.21:066][898]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3252.457031
+[2025.03.28-16.35.21:198][906]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-16.35.21:198][906]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3252.572998, Update Interval: 315.617554
+[2025.03.28-16.38.02:894][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.03.28-16.38.03:615][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.38.03:653][323]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/LevelEnd/BP_LevelEnd] ([2] browsable assets)...
+[2025.03.28-16.38.03:717][323]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RobinStaging/LevelEnd/BP_LevelEnd.BP_LevelEnd]
+[2025.03.28-16.38.03:717][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/LevelEnd/BP_LevelEnd]
+[2025.03.28-16.38.03:725][323]LogSavePackage: Moving output files for package: /Game/RobinStaging/LevelEnd/BP_LevelEnd
+[2025.03.28-16.38.03:725][323]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/BP_LevelEnd4499C5CB4F606B92C24D6C813BF98C9B.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/LevelEnd/BP_LevelEnd.uasset'
+[2025.03.28-16.38.03:733][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.649 ms (total: 5.33 sec)
+[2025.03.28-16.38.03:762][323]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.38.03:762][323]LogContentValidation: Enabled validators:
+[2025.03.28-16.38.03:762][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.38.03:762][323]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.38.03:762][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.38.03:762][323]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.38.03:762][323]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.38.03:762][323]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.38.03:762][323]AssetCheck: /Game/RobinStaging/LevelEnd/BP_LevelEnd Validating asset
