@@ -2323,3 +2323,286 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.28-15.52.37:559][912]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.28-15.52.37:559][912]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.28-15.52.37:559][912]AssetCheck: /Game/RobinStaging/Characters/Player/Blueprints/BP_Player Validating asset
+[2025.03.28-15.54.54:056][548]LogSlate: Window 'Delete Variable' being destroyed
+[2025.03.28-15.55.19:721][949]LogSlate: Window 'Delete Function' being destroyed
+[2025.03.28-15.55.35:844][752]LogSlate: Window 'Delete Variable' being destroyed
+[2025.03.28-15.55.51:718][625]LogSlate: Window 'Delete Variable' being destroyed
+[2025.03.28-15.56.01:961][160]LogSlate: Window 'Delete Variable' being destroyed
+[2025.03.28-15.56.38:526][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.03.28-15.56.38:530][328]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/RobinStaging/Maps/RobinMap' took 0.028
+[2025.03.28-15.56.38:532][328]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/Characters/Player/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.03.28-15.56.38:655][328]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RobinStaging/Characters/Player/Blueprints/BP_Player.BP_Player]
+[2025.03.28-15.56.38:655][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/Characters/Player/Blueprints/BP_Player]
+[2025.03.28-15.56.38:676][328]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RobinStaging/Characters/Player/Blueprints/BP_Player_Auto1
+[2025.03.28-15.56.38:676][328]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/BP_Player_Auto1D41739EB40B6339964BE81AB63D685A3.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/Autosaves/Game/RobinStaging/Characters/Player/Blueprints/BP_Player_Auto1.uasset'
+[2025.03.28-15.56.38:676][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RobinStaging/BP_GameManager] ([2] browsable assets)...
+[2025.03.28-15.56.38:676][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/BP_GameManager]
+[2025.03.28-15.56.38:677][328]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RobinStaging/BP_GameManager_Auto1
+[2025.03.28-15.56.38:677][328]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/BP_GameManager_Auto16866BAE1462F4EEEA38ED1BE3BC2A958.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/Autosaves/Game/RobinStaging/BP_GameManager_Auto1.uasset'
+[2025.03.28-15.56.38:680][328]LogFileHelpers: Auto-saving content packages took 0.150
+[2025.03.28-15.57.49:096][551]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1000.492310
+[2025.03.28-15.57.49:213][558]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-15.57.49:213][558]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1000.591858, Update Interval: 327.495972
+[2025.03.28-15.58.28:247][899]LogBlueprint: Warning: [AssetLog] C:\Users\ruobi\OneDrive\文档\GitHub\PocketRushStaging\PocketRushStaging\Content\RobinStaging\BP_GameManager.uasset: [Compiler] Could not find a variable named "GameManagerRef" in '/Game/RobinStaging/BP_GameManager.BP_GameManager_C'.
+Make sure '/Game/RobinStaging/BP_GameManager.BP_GameManager_C' has been compiled for  Get GameManagerRef
+[2025.03.28-15.58.28:247][899]LogBlueprint: Error: [AssetLog] C:\Users\ruobi\OneDrive\文档\GitHub\PocketRushStaging\PocketRushStaging\Content\RobinStaging\BP_GameManager.uasset: [Compiler] The property associated with  Game Manager Ref  could not be found in '/Game/RobinStaging/BP_GameManager.BP_GameManager_C'
+[2025.03.28-15.58.28:282][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.28-15.58.39:188][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.28-15.58.39:861][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-15.58.39:921][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RobinStaging/BP_GameManager] ([2] browsable assets)...
+[2025.03.28-15.58.39:921][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/BP_GameManager]
+[2025.03.28-15.58.39:929][570]LogSavePackage: Moving output files for package: /Game/RobinStaging/BP_GameManager
+[2025.03.28-15.58.39:929][570]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/BP_GameManager23D4DA944C4FDB01C7689C8036F98E36.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/BP_GameManager.uasset'
+[2025.03.28-15.58.39:939][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.871 ms (total: 1.75 sec)
+[2025.03.28-15.58.39:975][570]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-15.58.39:975][570]LogContentValidation: Enabled validators:
+[2025.03.28-15.58.39:975][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-15.58.39:975][570]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-15.58.39:975][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-15.58.39:975][570]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-15.58.39:975][570]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-15.58.39:975][570]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-15.58.39:976][570]AssetCheck: /Game/RobinStaging/BP_GameManager Validating asset
+[2025.03.28-15.59.31:858][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.28-15.59.31:908][627]LogBlueprint: Warning: Blueprint /Game/Xinghua/Mesh/Enemy01/BP_Enemy01 is missing GeneratedClass asset tag
+[2025.03.28-15.59.32:421][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-15.59.32:483][649]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/Characters/Player/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.03.28-15.59.32:547][649]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RobinStaging/Characters/Player/Blueprints/BP_Player.BP_Player]
+[2025.03.28-15.59.32:547][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/Characters/Player/Blueprints/BP_Player]
+[2025.03.28-15.59.32:561][649]LogSavePackage: Moving output files for package: /Game/RobinStaging/Characters/Player/Blueprints/BP_Player
+[2025.03.28-15.59.32:561][649]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/BP_Player0836A8D5444CD4C9A58C4CA5E107FCC9.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/Characters/Player/Blueprints/BP_Player.uasset'
+[2025.03.28-15.59.32:572][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.178 ms (total: 1.91 sec)
+[2025.03.28-15.59.32:606][649]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-15.59.32:606][649]LogContentValidation: Enabled validators:
+[2025.03.28-15.59.32:606][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-15.59.32:606][649]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-15.59.32:606][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-15.59.32:606][649]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-15.59.32:606][649]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-15.59.32:606][649]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-15.59.32:606][649]AssetCheck: /Game/RobinStaging/Characters/Player/Blueprints/BP_Player Validating asset
+[2025.03.28-15.59.33:730][689]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.28-15.59.33:986][689]LogContentBundle: [RobinMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.28-15.59.33:986][689]LogWorldPartition: Display: GenerateStreaming for 'RobinMap' started...
+[2025.03.28-15.59.34:027][689]LogWorldPartition: Display: GenerateStreaming for 'RobinMap' took 40.841 ms (total: 218.287 ms)
+[2025.03.28-15.59.34:030][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.28-15.59.34:032][689]LogPlayLevel: Creating play world package: /Game/RobinStaging/Maps/UEDPIE_0_RobinMap
+[2025.03.28-15.59.34:124][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090788s)
+[2025.03.28-15.59.34:124][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RobinStaging/Maps/RobinMap.RobinMap to /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap (0.091511s)
+[2025.03.28-15.59.34:202][689]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2025.03.28-15.59.34:210][689]LogChaosDD: Creating Chaos Debug Draw Scene for world RobinMap
+[2025.03.28-15.59.34:214][689]LogWorldPartition: ULevel::OnLevelLoaded(RobinMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.28-15.59.34:214][689]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.28-15.59.34:214][689]LogWorldPartition: UWorldPartition::Initialize : World = /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.28-15.59.34:214][689]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.28-15.59.34:219][689]LogWorldPartition: Display: WorldPartition initialize took 4.454 ms (total: 207.806 ms)
+[2025.03.28-15.59.34:219][689]LogPlayLevel: PIE: World Init took: (0.008637s)
+[2025.03.28-15.59.34:220][689]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.03.28-15.59.34:222][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.28-15.59.34:222][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.28-15.59.34:222][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.28-15.59.34:222][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.28-15.59.34:222][689]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.28-15.59.34:222][689]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.28-15.59.34:222][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.28-15.59.34:222][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.28-15.59.34:222][689]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.28-15.59.34:222][689]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.28-15.59.34:222][689]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.28-15.59.34:232][689]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.28-15.59.34:337][689]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.28-15.59.34:338][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.28-15.59.34:338][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.28-15.59.34:338][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.28-15.59.34:338][689]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.03.28-15.59.34:338][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.03.28-15.59.34:341][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.03.28-15.59.34:341][689]LogInit: FAudioDevice initialized with ID 10.
+[2025.03.28-15.59.34:341][689]LogAudio: Display: Audio Device (ID: 10) registered with world 'RobinMap'.
+[2025.03.28-15.59.34:341][689]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.03.28-15.59.34:341][689]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.03.28-15.59.34:345][689]LogLoad: Game class is 'BP_RobinPlayerGameMode_C'
+[2025.03.28-15.59.34:348][689]LogWorld: Bringing World /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap up for play (max tick rate 60) at 2025.03.28-09.59.34
+[2025.03.28-15.59.34:349][689]LogWorld: Bringing up level for play took: 0.003625
+[2025.03.28-15.59.34:351][689]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.03.28-15.59.34:354][689]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.03.28-15.59.34:356][689]PIE: Server logged in
+[2025.03.28-15.59.34:357][689]PIE: Play in editor total start time 0.372 seconds.
+[2025.03.28-15.59.35:817][748]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.28-15.59.35:817][748]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.28-15.59.36:895][794]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.28-15.59.36:897][794]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.28-15.59.38:821][886]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.28-15.59.38:821][886]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.28-15.59.39:629][929]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.28-15.59.39:629][929]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.28-15.59.40:469][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-15.59.40:469][967]LogWorld: BeginTearingDown for /Game/RobinStaging/Maps/UEDPIE_0_RobinMap
+[2025.03.28-15.59.40:471][967]LogWorld: UWorld::CleanupWorld for RobinMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-15.59.40:472][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-15.59.40:472][967]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/RobinStaging/Maps/UEDPIE_0_RobinMap.RobinMap
+[2025.03.28-15.59.40:477][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.28-15.59.40:481][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-15.59.40:501][967]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.28-15.59.40:502][967]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.03.28-15.59.40:502][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.03.28-15.59.40:505][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.03.28-15.59.40:510][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-15.59.40:514][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.03.28-15.59.40:556][968]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.03.28-15.59.59:236][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.03.28-15.59.59:286][984]LogBlueprint: Warning: Blueprint /Game/Xinghua/Mesh/Enemy01/BP_Enemy01 is missing GeneratedClass asset tag
+[2025.03.28-15.59.59:827][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-15.59.59:878][  6]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/Characters/Player/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.03.28-15.59.59:950][  6]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RobinStaging/Characters/Player/Blueprints/BP_Player.BP_Player]
+[2025.03.28-15.59.59:950][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/Characters/Player/Blueprints/BP_Player]
+[2025.03.28-15.59.59:963][  6]LogSavePackage: Moving output files for package: /Game/RobinStaging/Characters/Player/Blueprints/BP_Player
+[2025.03.28-15.59.59:965][  6]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/BP_Player6C6D5CB0446E0F3CBA6BF192EA4AD06A.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/Characters/Player/Blueprints/BP_Player.uasset'
+[2025.03.28-15.59.59:976][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.311 ms (total: 2.05 sec)
+[2025.03.28-16.00.00:008][  6]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.00.00:008][  6]LogContentValidation: Enabled validators:
+[2025.03.28-16.00.00:008][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.00.00:008][  6]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.00.00:008][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.00.00:008][  6]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.00.00:008][  6]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.00.00:008][  6]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.00.00:008][  6]AssetCheck: /Game/RobinStaging/Characters/Player/Blueprints/BP_Player Validating asset
+[2025.03.28-16.00.18:876][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.28-16.00.19:388][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.00.19:440][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RobinStaging/BP_GameManager] ([2] browsable assets)...
+[2025.03.28-16.00.19:440][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/BP_GameManager]
+[2025.03.28-16.00.19:447][141]LogSavePackage: Moving output files for package: /Game/RobinStaging/BP_GameManager
+[2025.03.28-16.00.19:447][141]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/BP_GameManager5AF9D4854BB5AE1F71E73AA316FA6675.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/BP_GameManager.uasset'
+[2025.03.28-16.00.19:459][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.229 ms (total: 2.13 sec)
+[2025.03.28-16.00.19:482][141]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.00.19:482][141]LogContentValidation: Enabled validators:
+[2025.03.28-16.00.19:482][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.00.19:482][141]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.00.19:482][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.00.19:482][141]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.00.19:482][141]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.00.19:482][141]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.00.19:482][141]AssetCheck: /Game/RobinStaging/BP_GameManager Validating asset
+[2025.03.28-16.00.38:586][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.28-16.00.39:166][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.00.39:238][303]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RobinStaging/BP_GameManager] ([2] browsable assets)...
+[2025.03.28-16.00.39:238][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/BP_GameManager]
+[2025.03.28-16.00.39:245][303]LogSavePackage: Moving output files for package: /Game/RobinStaging/BP_GameManager
+[2025.03.28-16.00.39:246][303]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/BP_GameManager45AE56B44B322BEDAA12C0AD239CA754.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/BP_GameManager.uasset'
+[2025.03.28-16.00.39:259][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.059 ms (total: 2.22 sec)
+[2025.03.28-16.00.39:292][303]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.00.39:292][303]LogContentValidation: Enabled validators:
+[2025.03.28-16.00.39:292][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.00.39:292][303]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.00.39:292][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.00.39:292][303]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.00.39:292][303]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.00.39:292][303]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.00.39:292][303]AssetCheck: /Game/RobinStaging/BP_GameManager Validating asset
+[2025.03.28-16.00.56:720][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.28-16.00.56:770][297]LogBlueprint: Warning: Blueprint /Game/Xinghua/Mesh/Enemy01/BP_Enemy01 is missing GeneratedClass asset tag
+[2025.03.28-16.00.57:323][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.00.57:394][320]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/Characters/Player/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.03.28-16.00.57:522][320]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RobinStaging/Characters/Player/Blueprints/BP_Player.BP_Player]
+[2025.03.28-16.00.57:522][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/Characters/Player/Blueprints/BP_Player]
+[2025.03.28-16.00.57:536][320]LogSavePackage: Moving output files for package: /Game/RobinStaging/Characters/Player/Blueprints/BP_Player
+[2025.03.28-16.00.57:537][320]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/BP_PlayerC5C060D347F182CC18CA89ABA5E3F0B7.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/Characters/Player/Blueprints/BP_Player.uasset'
+[2025.03.28-16.00.57:552][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 229.017 ms (total: 2.45 sec)
+[2025.03.28-16.00.57:595][320]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.00.57:595][320]LogContentValidation: Enabled validators:
+[2025.03.28-16.00.57:595][320]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.00.57:595][320]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.00.57:595][320]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.00.57:595][320]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.00.57:595][320]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.00.57:595][320]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.00.57:595][320]AssetCheck: /Game/RobinStaging/Characters/Player/Blueprints/BP_Player Validating asset
+[2025.03.28-16.01.12:155][993]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.03.28-16.01.13:462][ 36]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/RobinStaging/Characters/Player/Blueprints/BP_Player.BP_Player_C
+[2025.03.28-16.01.13:462][ 36]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/RobinStaging/Characters/Player/Blueprints/BP_Player.BP_Player_C
+[2025.03.28-16.01.13:467][ 36]LogActorFactory: Actor Factory spawned Blueprint /Game/RobinStaging/Characters/Player/Blueprints/BP_Player.BP_Player as actor: BP_Player_C /Game/RobinStaging/Maps/RobinMap.RobinMap:PersistentLevel.BP_Player_C_0
+[2025.03.28-16.01.13:471][ 36]LogActorFactory: Actor Factory spawned Blueprint /Game/RobinStaging/Characters/Player/Blueprints/BP_Player.BP_Player as actor: BP_Player_C /Game/RobinStaging/Maps/RobinMap.RobinMap:PersistentLevel.BP_Player_C_0
+[2025.03.28-16.01.14:853][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2025.03.28-16.01.14:862][ 75]LogEditorActor: Deleted 0 Actors (0.070 secs)
+[2025.03.28-16.01.14:947][ 75]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/RobinStaging/Characters/Player/Blueprints/BP_Player.BP_Player_C
+[2025.03.28-16.01.14:949][ 75]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/RobinStaging/Characters/Player/Blueprints/BP_Player.BP_Player_C
+[2025.03.28-16.01.15:053][ 75]LogActorFactory: Actor Factory spawned Blueprint /Game/RobinStaging/Characters/Player/Blueprints/BP_Player.BP_Player as actor: BP_Player_C /Game/RobinStaging/Maps/RobinMap.RobinMap:PersistentLevel.BP_Player_C_UAID_08BFB8C455336D5902_1688770663
+[2025.03.28-16.01.15:072][ 75]LogActorFactory: Actor Factory spawned Blueprint /Game/RobinStaging/Characters/Player/Blueprints/BP_Player.BP_Player as actor: BP_Player_C /Game/RobinStaging/Maps/RobinMap.RobinMap:PersistentLevel.BP_Player_C_UAID_08BFB8C455336D5902_1688770663
+[2025.03.28-16.01.37:565][830]Cmd: DELETE
+[2025.03.28-16.01.37:565][830]Cmd: ACTOR DELETE
+[2025.03.28-16.01.37:576][830]LogEditorActor: Deleted Actor: BP_Player_C
+[2025.03.28-16.01.37:623][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.03.28-16.01.37:627][830]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2025.03.28-16.01.42:177][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.01.42:308][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.28-16.01.42:329][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.03.28-16.01.42:348][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.03.28-16.01.42:361][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.525 ms (total: 2.63 sec)
+[2025.03.28-16.01.44:242][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.28-16.03.29:086][968]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1340.477295
+[2025.03.28-16.03.29:237][977]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-16.03.29:237][977]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1340.611206, Update Interval: 331.553711
+[2025.03.28-16.04.00:614][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.28-16.04.00:668][845]LogBlueprint: Warning: Blueprint /Game/Xinghua/Mesh/Enemy01/BP_Enemy01 is missing GeneratedClass asset tag
+[2025.03.28-16.04.01:211][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.04.01:255][868]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/Characters/Player/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.03.28-16.04.01:320][868]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RobinStaging/Characters/Player/Blueprints/BP_Player.BP_Player]
+[2025.03.28-16.04.01:321][868]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/Characters/Player/Blueprints/BP_Player]
+[2025.03.28-16.04.01:334][868]LogSavePackage: Moving output files for package: /Game/RobinStaging/Characters/Player/Blueprints/BP_Player
+[2025.03.28-16.04.01:334][868]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/BP_PlayerF4291785412627D6218F9B8C09D9C1C9.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/Characters/Player/Blueprints/BP_Player.uasset'
+[2025.03.28-16.04.01:344][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.245 ms (total: 2.76 sec)
+[2025.03.28-16.04.01:377][868]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.04.01:377][868]LogContentValidation: Enabled validators:
+[2025.03.28-16.04.01:377][868]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.04.01:377][868]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.04.01:377][868]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.04.01:377][868]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.04.01:377][868]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.04.01:377][868]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.04.01:377][868]AssetCheck: /Game/RobinStaging/Characters/Player/Blueprints/BP_Player Validating asset
+[2025.03.28-16.04.42:534][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.28-16.04.42:586][334]LogBlueprint: Warning: Blueprint /Game/Xinghua/Mesh/Enemy01/BP_Enemy01 is missing GeneratedClass asset tag
+[2025.03.28-16.04.43:065][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.04.43:120][353]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/Characters/Player/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.03.28-16.04.43:252][353]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RobinStaging/Characters/Player/Blueprints/BP_Player.BP_Player]
+[2025.03.28-16.04.43:252][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/Characters/Player/Blueprints/BP_Player]
+[2025.03.28-16.04.43:265][353]LogSavePackage: Moving output files for package: /Game/RobinStaging/Characters/Player/Blueprints/BP_Player
+[2025.03.28-16.04.43:266][353]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/BP_Player35BE54F9466E6175381AEBA95ECD7721.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/Characters/Player/Blueprints/BP_Player.uasset'
+[2025.03.28-16.04.43:280][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 215.178 ms (total: 2.98 sec)
+[2025.03.28-16.04.43:316][353]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.04.43:316][353]LogContentValidation: Enabled validators:
+[2025.03.28-16.04.43:316][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.04.43:316][353]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.04.43:316][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.04.43:316][353]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.04.43:316][353]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.04.43:316][353]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.04.43:316][353]AssetCheck: /Game/RobinStaging/Characters/Player/Blueprints/BP_Player Validating asset
+[2025.03.28-16.06.45:922][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.03.28-16.06.45:926][ 10]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/RobinStaging/Maps/RobinMap' took 0.023
+[2025.03.28-16.06.45:927][ 10]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RobinStaging/UI/WBP_MenuManager] ([2] browsable assets)...
+[2025.03.28-16.06.45:929][ 10]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/RobinStaging/UI/WBP_MenuManager.WBP_MenuManager]
+[2025.03.28-16.06.45:929][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/UI/WBP_MenuManager]
+[2025.03.28-16.06.45:945][ 10]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RobinStaging/UI/WBP_MenuManager_Auto2
+[2025.03.28-16.06.45:945][ 10]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/WBP_MenuManager_Auto22B1DAA8D48891FE94F46B8B3D481315F.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/Autosaves/Game/RobinStaging/UI/WBP_MenuManager_Auto2.uasset'
+[2025.03.28-16.06.45:945][ 10]LogFileHelpers: Auto-saving content packages took 0.019
+[2025.03.28-16.09.18:432][158]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1689.823730
+[2025.03.28-16.09.18:566][166]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-16.09.18:566][166]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1689.941162, Update Interval: 331.114227
+[2025.03.28-16.12.54:563][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-16.12.54:601][ 75]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RobinStaging/UI/WBP_MenuManager] ([2] browsable assets)...
+[2025.03.28-16.12.54:601][ 75]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobinStaging/UI/WBP_MenuManager]
+[2025.03.28-16.12.54:613][ 75]LogSavePackage: Moving output files for package: /Game/RobinStaging/UI/WBP_MenuManager
+[2025.03.28-16.12.54:613][ 75]LogSavePackage: Moving '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Saved/WBP_MenuManagerC75E8F9D4E400C853ACBE3A8F58437A5.tmp' to '../../../../../../Users/ruobi/OneDrive/文档/GitHub/PocketRushStaging/PocketRushStaging/Content/RobinStaging/UI/WBP_MenuManager.uasset'
+[2025.03.28-16.12.54:626][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.538 ms (total: 3.04 sec)
+[2025.03.28-16.12.54:663][ 75]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-16.12.54:663][ 75]LogContentValidation: Enabled validators:
+[2025.03.28-16.12.54:663][ 75]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-16.12.54:663][ 75]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-16.12.54:663][ 75]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-16.12.54:663][ 75]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-16.12.54:663][ 75]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-16.12.54:663][ 75]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-16.12.54:664][ 75]AssetCheck: /Game/RobinStaging/UI/WBP_MenuManager Validating asset
+[2025.03.28-16.13.03:567][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
